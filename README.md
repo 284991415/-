@@ -15,6 +15,22 @@ vmess=gzcus1.node52.xyz:26662, method=aes-128-gcm, password=cbb01e14-a6b0-3660-b
 vmess=gzcus2.node52.xyz:26661, method=aes-128-gcm, password=cbb01e14-a6b0-3660-b900-56c7e0e517dd, obfs=ws, obfs-host=hk.jd.com, obfs-uri=/v2ray, fast-open=false, udp-relay=false, aead=false, tag=搞鸡玩家-52ILPE-解锁流媒体15
 vmess=gzc.node52.xyz:28038, method=aes-128-gcm, password=cbb01e14-a6b0-3660-b900-56c7e0e517dd, obfs=ws, obfs-host=hk.jd.com, obfs-uri=/v2ray, fast-open=false, udp-relay=false, aead=false, tag=搞鸡玩家-52ILPE-解锁流媒体16
 
+trojan=bgroup.node1.t.nodelist-gfwairport.download:50001,password=08a08ef3-4262-47d9-bff3-4e1feaf5433f,over-tls=true,tls-verification=false,fast-open=false,udp-relay=false,tag=Tokyo,Tj-BGroup
+trojan=bgroup.node2.t.nodelist-gfwairport.download:50001,password=08a08ef3-4262-47d9-bff3-4e1feaf5433f,over-tls=true,tls-verification=false,fast-open=false,udp-relay=false,tag=Incheon,Tj-BGroup
+trojan=bgroup.node3.t.nodelist-gfwairport.download:50001,password=08a08ef3-4262-47d9-bff3-4e1feaf5433f,over-tls=true,tls-verification=false,fast-open=false,udp-relay=false,tag=Singapore,Tj-BGroup
+trojan=bgroup.node4.t.nodelist-gfwairport.download:50001,password=08a08ef3-4262-47d9-bff3-4e1feaf5433f,over-tls=true,tls-verification=false,fast-open=false,udp-relay=false,tag=Hongkong,Tj-BGroup
+trojan=bgroup.node5.t.nodelist-gfwairport.download:50001,password=08a08ef3-4262-47d9-bff3-4e1feaf5433f,over-tls=true,tls-verification=false,fast-open=false,udp-relay=false,tag=California,Tj-BGroup
+shadowsocks=bgroup.node1.s.nodelist-gfwairport.download:50001,method=chacha20-ietf-poly1305,password=08a08ef3-4262-47d9-bff3-4e1feaf5433f,fast-open=false,udp-relay=false,tag=Tokyo,SS-BGroup
+shadowsocks=bgroup.node2.s.nodelist-gfwairport.download:50001,method=chacha20-ietf-poly1305,password=08a08ef3-4262-47d9-bff3-4e1feaf5433f,fast-open=false,udp-relay=false,tag=Incheon,SS-BGroup
+shadowsocks=bgroup.node3.s.nodelist-gfwairport.download:50001,method=chacha20-ietf-poly1305,password=08a08ef3-4262-47d9-bff3-4e1feaf5433f,fast-open=false,udp-relay=false,tag=Singapore,SS-BGroup
+shadowsocks=bgroup.node4.s.nodelist-gfwairport.download:50001,method=chacha20-ietf-poly1305,password=08a08ef3-4262-47d9-bff3-4e1feaf5433f,fast-open=false,udp-relay=false,tag=Hongkong,SS-BGroup
+shadowsocks=bgroup.node5.s.nodelist-gfwairport.download:50001,method=chacha20-ietf-poly1305,password=08a08ef3-4262-47d9-bff3-4e1feaf5433f,fast-open=false,udp-relay=false,tag=California,SS-BGroup
+vmess=bgroup.node1.v.nodelist-gfwairport.download:50001,method=aes-128-gcm,password=08a08ef3-4262-47d9-bff3-4e1feaf5433f,fast-open=false,udp-relay=false,aead=true,tag=Tokyo,V2-BGroup
+vmess=bgroup.node2.v.nodelist-gfwairport.download:50001,method=aes-128-gcm,password=08a08ef3-4262-47d9-bff3-4e1feaf5433f,fast-open=false,udp-relay=false,aead=true,tag=Incheon,V2-BGroup
+vmess=bgroup.node3.v.nodelist-gfwairport.download:50001,method=aes-128-gcm,password=08a08ef3-4262-47d9-bff3-4e1feaf5433f,fast-open=false,udp-relay=false,aead=true,tag=Singapore,V2-BGroup
+vmess=bgroup.node4.v.nodelist-gfwairport.download:50001,method=aes-128-gcm,password=08a08ef3-4262-47d9-bff3-4e1feaf5433f,fast-open=false,udp-relay=false,aead=true,tag=Hongkong,V2-BGroup
+vmess=bgroup.node5.v.nodelist-gfwairport.download:50001,method=aes-128-gcm,password=08a08ef3-4262-47d9-bff3-4e1feaf5433f,fast-open=false,udp-relay=false,aead=true,tag=California,V2-BGroup
+
 shadowsocks=yzyd-01.cctelescope.xyz:20001, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=112248:Nn5xo6IWwH, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=香港_R_275
 shadowsocks=sh163.safetelescope.cc:12021, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=112248:Nn5xo6IWwH, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=香港_R_120
 shadowsocks=sh163.safetelescope.cc:10020, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=112248:Nn5xo6IWwH, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=韩国_R_311
