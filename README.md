@@ -2,6 +2,9 @@ http=119.176.253.89:9080, over-tls=false, fast-open=false, udp-relay=false,  ser
 shadowsocks=101.132.192.212:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_etg0, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=Music高速 2
 shadowsocks=101.132.192.212:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_etg0, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=Music高速 3
 
+ss://YWVzLTEyOC1nY206ZGVzcGVyYWRvai5jb21fZnJlZV9wcm94eV9ldGcw@music.desperadoj.com:30003#%F0%9F%8E%B5%20%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90
+ss://YWVzLTEyOC1nY206VGhpc19wcm94eV9pc19mb3JfZnJlZQ@127.0.0.1:8080#%E2%80%BC%EF%B8%8F%20%E5%85%8D%E8%B4%B9%E4%BB%A3%E7%90%86%EF%BC%8C%E5%A6%82%E9%81%87%E6%94%B6%E8%B4%B9%E8%AF%B7%E4%B8%BE%E6%8A%A5
+
 vmess=gza1.node52.xyz:28034, method=aes-128-gcm, password=cbb01e14-a6b0-3660-b900-56c7e0e517dd, obfs=ws, obfs-host=hk.jd.com, obfs-uri=/v2ray, fast-open=false, udp-relay=false, aead=false, tag=搞鸡玩家-52ILPE-Hong Kong 1
 vmess=gza2.node52.xyz:28032, method=aes-128-gcm, password=cbb01e14-a6b0-3660-b900-56c7e0e517dd, obfs=ws, obfs-host=hk.jd.com, obfs-uri=/v2ray, fast-open=false, udp-relay=false, aead=false, tag=搞鸡玩家-52ILPE-Hong Kong 2
 vmess=gza3.node52.xyz:28030, method=aes-128-gcm, password=cbb01e14-a6b0-3660-b900-56c7e0e517dd, obfs=ws, obfs-host=hk.jd.com, obfs-uri=/v2ray, fast-open=false, udp-relay=false, aead=false, tag=搞鸡玩家-52ILPE-Hong Kong 3
