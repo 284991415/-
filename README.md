@@ -1,4 +1,3 @@
-
 http=119.176.253.89:9080, over-tls=false, fast-open=false, udp-relay=false,  server_check_url=http://interface3.music.163.com,tag=Music高速 1
 shadowsocks=101.132.192.212:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_etg0, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=Music高速 2
 shadowsocks=101.132.192.212:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_etg0, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=Music高速 3
