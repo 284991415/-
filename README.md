@@ -1,7 +1,7 @@
-shadowsocks=yzyd-01.cctelescope.xyz:20001, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=112248:Nn5xo6IWwH, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=香港_R_275
-http=119.176.253.89:9080, over-tls=false, fast-open=false, udp-relay=false,  server_check_url=http://interface3.music.163.com,tag=Music 1
-shadowsocks=101.132.192.212:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_etg0, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=Music 2
-shadowsocks=101.132.192.212:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_etg0, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=Music 3
+
+http=119.176.253.89:9080, over-tls=false, fast-open=false, udp-relay=false,  server_check_url=http://interface3.music.163.com,tag=Music高速 1
+shadowsocks=101.132.192.212:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_etg0, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=Music高速 2
+shadowsocks=101.132.192.212:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_etg0, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=Music高速 3
 
 vmess=gza1.node52.xyz:28034, method=aes-128-gcm, password=cbb01e14-a6b0-3660-b900-56c7e0e517dd, obfs=ws, obfs-host=hk.jd.com, obfs-uri=/v2ray, fast-open=false, udp-relay=false, aead=false, tag=搞鸡玩家-52ILPE-Hong Kong 1
 vmess=gza2.node52.xyz:28032, method=aes-128-gcm, password=cbb01e14-a6b0-3660-b900-56c7e0e517dd, obfs=ws, obfs-host=hk.jd.com, obfs-uri=/v2ray, fast-open=false, udp-relay=false, aead=false, tag=搞鸡玩家-52ILPE-Hong Kong 2
