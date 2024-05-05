@@ -1,3 +1,9 @@
+http=music.lolico.me:39000, fast-open=false, udp-relay=false, tag=解锁网易云节点1
+http=block4music.poetyin.me:39000, fast-open=false, udp-relay=false, tag=解锁网易云节点2
+shadowsocks=blockmusic.poetyin.me:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_emx2, fast-open=false, udp-relay=false, tag=解锁网易云节点3
+shadowsocks=music.desperadoj.com:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_emx2, fast-open=false, udp-relay=false, tag=解锁网易云节点4
+shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_emx2, fast-open=false, udp-relay=false, tag=解锁网易云节点5
+
 http=119.176.253.89:9080, over-tls=false, fast-open=false, udp-relay=false,  server_check_url=http://interface3.music.163.com,tag=Music高速 1
 shadowsocks=101.132.192.212:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_etg0, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=Music高速 2
 shadowsocks=101.132.192.212:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_etg0, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=Music高速 3
