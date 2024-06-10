@@ -1,6 +1,5 @@
-# > 魔法仅供临时使用1
+
 https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg#delreg=.*&rename=@tg%40ddgksf2021-+@num-$index7, tag=🐟临时使用, update-interval=3600, opt-parser=true, enabled=true
-# > 魔法仅供临时使用2
 https://sub.sharecentre.online/sub#delreg=.*&rename=@tg%40ddgksf2021-+@num-$index7, tag=🐟临时使用, update-interval=3600, opt-parser=true, enabled=true
 http=music.lolico.me:39000, fast-open=false, udp-relay=false, tag=解锁网易云节点1
 http=block4music.poetyin.me:39000, fast-open=false, udp-relay=false, tag=解锁网易云节点2
