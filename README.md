@@ -14,22 +14,20 @@ shadowsocks=101.132.192.212:30001, method=aes-128-gcm, password=desperadoj.com_f
 ss://YWVzLTEyOC1nY206ZGVzcGVyYWRvai5jb21fZnJlZV9wcm94eV9ldGcw@music.desperadoj.com:30003#%F0%9F%8E%B5%20%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90
 ss://YWVzLTEyOC1nY206VGhpc19wcm94eV9pc19mb3JfZnJlZQ@127.0.0.1:8080#%E2%80%BC%EF%B8%8F%20%E5%85%8D%E8%B4%B9%E4%BB%A3%E7%90%86%EF%BC%8C%E5%A6%82%E9%81%87%E6%94%B6%E8%B4%B9%E8%AF%B7%E4%B8%BE%E6%8A%A5
 
-vmess=gza1.node52.xyz:28034, method=aes-128-gcm, password=cbb01e14-a6b0-3660-b900-56c7e0e517dd, obfs=ws, obfs-host=hk.jd.com, obfs-uri=/v2ray, fast-open=false, udp-relay=false, aead=false, tag=搞鸡玩家-52ILPE-Hong Kong 1
-vmess=gza2.node52.xyz:28032, method=aes-128-gcm, password=cbb01e14-a6b0-3660-b900-56c7e0e517dd, obfs=ws, obfs-host=hk.jd.com, obfs-uri=/v2ray, fast-open=false, udp-relay=false, aead=false, tag=搞鸡玩家-52ILPE-Hong Kong 2
-vmess=gza3.node52.xyz:28030, method=aes-128-gcm, password=cbb01e14-a6b0-3660-b900-56c7e0e517dd, obfs=ws, obfs-host=hk.jd.com, obfs-uri=/v2ray, fast-open=false, udp-relay=false, aead=false, tag=搞鸡玩家-52ILPE-Hong Kong 3
-vmess=sga1.node52.xyz:28011, method=aes-128-gcm, password=cbb01e14-a6b0-3660-b900-56c7e0e517dd, obfs=ws, obfs-host=hk.jd.com, obfs-uri=/v2ray, fast-open=false, udp-relay=false, aead=false, tag=搞鸡玩家-52ILPE-Singapore 4
-vmess=sga2.node52.xyz:28020, method=aes-128-gcm, password=cbb01e14-a6b0-3660-b900-56c7e0e517dd, obfs=ws, obfs-host=hk.jd.com, obfs-uri=/v2ray, fast-open=false, udp-relay=false, aead=false, tag=搞鸡玩家-52ILPE-Singapore 5
-vmess=sga3.node52.xyz:28018, method=aes-128-gcm, password=cbb01e14-a6b0-3660-b900-56c7e0e517dd, obfs=ws, obfs-host=hk.jd.com, obfs-uri=/v2ray, fast-open=false, udp-relay=false, aead=false, tag=搞鸡玩家-52ILPE-解锁流媒体6
-vmess=jpa1.node52.xyz:28016, method=aes-128-gcm, password=cbb01e14-a6b0-3660-b900-56c7e0e517dd, obfs=ws, obfs-host=hk.jd.com, obfs-uri=/v2ray, fast-open=false, udp-relay=false, aead=false, tag=搞鸡玩家-52ILPE-Tokyo 7
-vmess=jpa2.node52.xyz:28021, method=aes-128-gcm, password=cbb01e14-a6b0-3660-b900-56c7e0e517dd, obfs=ws, obfs-host=hk.jd.com, obfs-uri=/v2ray, fast-open=false, udp-relay=false, aead=false, tag=搞鸡玩家-52ILPE-Tokyo 8
-vmess=jpa3.node52.xyz:28017, method=aes-128-gcm, password=cbb01e14-a6b0-3660-b900-56c7e0e517dd, obfs=ws, obfs-host=hk.jd.com, obfs-uri=/v2ray, fast-open=false, udp-relay=false, aead=false, tag=搞鸡玩家-52ILPE-Tokyo 9
-vmess=gztw1.node52.xyz:28005, method=aes-128-gcm, password=cbb01e14-a6b0-3660-b900-56c7e0e517dd, obfs=ws, obfs-host=hk.jd.com, obfs-uri=/v2ray, fast-open=false, udp-relay=false, aead=false, tag=搞鸡玩家-52ILPE-Taichung 10
-vmess=gzbus1.node52.xyz:28042, method=aes-128-gcm, password=cbb01e14-a6b0-3660-b900-56c7e0e517dd, obfs=ws, obfs-host=hk.jd.com, obfs-uri=/v2ray, fast-open=false, udp-relay=false, aead=false, tag=搞鸡玩家-52ILPE-Wilmington 11
-vmess=gzb.node52.xyz:28029, method=aes-128-gcm, password=cbb01e14-a6b0-3660-b900-56c7e0e517dd, obfs=ws, obfs-host=hk.jd.com, obfs-uri=/v2ray, fast-open=false, udp-relay=false, aead=false, tag=搞鸡玩家-52ILPE-Hong Kong 12
-vmess=gzb.node52.xyz:28035, method=aes-128-gcm, password=cbb01e14-a6b0-3660-b900-56c7e0e517dd, obfs=ws, obfs-host=hk.jd.com, obfs-uri=/v2ray, fast-open=false, udp-relay=false, aead=false, tag=搞鸡玩家-52ILPE-Hong Kong 13
-vmess=gzcus1.node52.xyz:26662, method=aes-128-gcm, password=cbb01e14-a6b0-3660-b900-56c7e0e517dd, obfs=ws, obfs-host=hk.jd.com, obfs-uri=/v2ray, fast-open=false, udp-relay=false, aead=false, tag=搞鸡玩家-52ILPE-Fremont 14
-vmess=gzcus2.node52.xyz:26661, method=aes-128-gcm, password=cbb01e14-a6b0-3660-b900-56c7e0e517dd, obfs=ws, obfs-host=hk.jd.com, obfs-uri=/v2ray, fast-open=false, udp-relay=false, aead=false, tag=搞鸡玩家-52ILPE-Richardson 15
-vmess=gzc.node52.xyz:28038, method=aes-128-gcm, password=cbb01e14-a6b0-3660-b900-56c7e0e517dd, obfs=ws, obfs-host=hk.jd.com, obfs-uri=/v2ray, fast-open=false, udp-relay=false, aead=false, tag=搞鸡玩家-52ILPE-Hong Kong 16
+俄罗斯1= ss, 45.130.146.208, 61429, encrypt-method=aes-256-gcm, password=b6a2f7dde84e7a12
+俄罗斯2 = ss, 176.32.35.202, 64132, encrypt-method=aes-256-gcm, password=4194ce5b1f36f660
+SS = ss, 46.17.44.16, 62135, encrypt-method=aes-256-gcm, password=d8285a86cdb003de
+SS1 = ss, 45.130.146.135, 61254, encrypt-method=aes-256-gcm, password=a7f1334b28f9ad77
+SS2 = ss, 45.130.146.208, 61429, encrypt-method=aes-256-gcm, password=b6a2f7dde84e7a12
+SS3 = ss, 91.149.236.131, 61251, encrypt-method=aes-256-gcm, password=ba4850ef511c65b3
+SS4 = ss, 46.29.163.29, 61931, encrypt-method=aes-256-gcm, password=a4a8a2002a4fd6c5
+SS5 = ss, 176.32.35.202, 64132, encrypt-method=aes-256-gcm, password=4194ce5b1f36f660
+SS6 = ss, 195.133.53.81, 61231, encrypt-method=aes-256-gcm, password=478f9fdd437325da
+SS7 = ss, 46.17.44.95, 63124, encrypt-method=aes-256-gcm, password=6e67deffda597ac4
+SS8 = ss, 46.17.43.87, 65111, encrypt-method=aes-256-gcm, password=76f22412bc0dbdf6
+SS9 = ss, 193.53.126.91, 64231, encrypt-method=aes-256-gcm, password=df14ff552867fbf9
+SS10 = ss, 46.29.163.29, 61931, encrypt-method=aes-256-gcm, password=a4a8a2002a4fd6c5
+SS11 = ss, 193.53.126.91, 64231, encrypt-method=aes-256-gcm, password=df14ff552867fbf9
 
 
 vmess://eyJhZGQiOiAiMTEyLjEzMi4yMTIuMTEyIiwgImFpZCI6ICI2NCIsICJob3N0IjogIiIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjUwMDAyIiwgInBzIjogIlx1NGUyZFx1NTZmZFx1NWI4OVx1NWZiZEEiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
