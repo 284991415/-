@@ -1,3 +1,9 @@
+vmess=bgroup.node5.v.nodelist-gfwairport.download:50001, method=aes-128-gcm, password=08a08ef3-4262-47d9-bff3-4e1feaf5433f, fast-open=true, udp-relay=false, aead=true, tag=California,V2 - B Group
+vmess=bgroup.node4.v.nodelist-gfwairport.download:50001, method=aes-128-gcm, password=08a08ef3-4262-47d9-bff3-4e1feaf5433f, fast-open=true, udp-relay=false, aead=true, tag=Hongkong,V2 - B Group
+vmess=bgroup.node1.v.nodelist-gfwairport.download:50001, method=aes-128-gcm, password=08a08ef3-4262-47d9-bff3-4e1feaf5433f, fast-open=true, udp-relay=false, aead=true, tag=Tokyo,V2 - B Group
+vmess=bgroup.node2.v.nodelist-gfwairport.download:50001, method=aes-128-gcm, password=08a08ef3-4262-47d9-bff3-4e1feaf5433f, fast-open=true, udp-relay=false, aead=true, tag=Incheon,V2 - B Group
+shadowsocks=bgroup.node5.s.nodelist-gfwairport.download:50001, method=chacha20-ietf-poly1305, password=08a08ef3-4262-47d9-bff3-4e1feaf5433f, fast-open=false, udp-relay=false, tag=California,SS - B Group
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNGYzODAyMzExM2EyYzIwQDEyMi45LjIwMS44Ojk5OTk#%F0%9F%87%AD%F0%9F%87%B0HK%20TG%20%5B@iOS_K001%5D%F0%9F%8C%B9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNGYzODAyMzExM2EyYzIwQDExMC40MS4zNS4xMjc6OTkwOQ#%F0%9F%87%AF%F0%9F%87%B5JP~%E5%94%AF%E4%B8%80%E6%94%B6%E5%85%A5%E6%B5%81%E9%87%8F%E5%8D%A1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNGYzODAyMzExM2EyYzIwQDExMC40MS4zNS4xMjc6OTkwOA#%F0%9F%87%AC%F0%9F%87%A7UK~%E6%84%9F%E8%B0%A2%E5%90%84%E4%BD%8D%E6%89%80%E6%9C%89%E5%A4%9A%E5%A4%9A%E6%94%AF%E6%8C%81
