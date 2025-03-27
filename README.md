@@ -5,6 +5,45 @@ vmess=bgroup.node1.v.nodelist-gfwairport.download:50001, method=aes-128-gcm, pas
 vmess=bgroup.node2.v.nodelist-gfwairport.download:50001, method=aes-128-gcm, password=08a08ef3-4262-47d9-bff3-4e1feaf5433f, fast-open=true, udp-relay=false, aead=true, tag=Incheon,V2 - B Group
 shadowsocks=bgroup.node5.s.nodelist-gfwairport.download:50001, method=chacha20-ietf-poly1305, password=08a08ef3-4262-47d9-bff3-4e1feaf5433f, fast-open=false, udp-relay=false, tag=California,SS - B Group
 
+vless://bm9uZTozYTMyMWMwYy05Mzk3LTQ5ZDctYWVjMi05YWVlNTMyZjdlYWVANS4yNTIuMjUuNzM6NDQz?remarks=%E5%BE%B7%E5%9B%BD&obfs=none&tls=1&peer=microsoft.com&xtls=2&pbk=FN3xdn38Nsw042ke-7ad3nAwpCC7QvofKznzeBhvMj4
+vless://bm9uZTpmNmEzOWFiZC02MjAzLTQ5MDAtYTY4ZC00YWU0OTcyY2VlNzJANTEuMTUuMjUwLjEwNDo0NDM?remarks=%E6%B3%95%E5%9B%BD&obfs=none&tls=1&peer=microsoft.com&xtls=2&pbk=FN3xdn38Nsw042ke-7ad3nAwpCC7QvofKznzeBhvMj4
+vless://bm9uZTo2ZmZmYjQ1MS1hNWNlLTQyMzQtOTJkZi1kYWJmM2U5Y2NkZmRAMTM5Ljk5LjE3MS4zNDo0NDM?remarks=%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A&obfs=none&tls=1&peer=microsoft.com&xtls=2&pbk=FN3xdn38Nsw042ke-7ad3nAwpCC7QvofKznzeBhvMj4
+vless://bm9uZToyZGFiNzY1Ni03YmExLTQ2NWUtYTBlNy1iMTYzZTE5MzEyYTZAMTg1LjIwMi45NC4xMTA6NDQz?remarks=%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A&obfs=none&tls=1&peer=microsoft.com&xtls=2&pbk=FN3xdn38Nsw042ke-7ad3nAwpCC7QvofKznzeBhvMj4
+vless://bm9uZTowYjY0MzViZC0yNGNlLTRiODQtYjUxZS02YTBiMjUyMDFkYTRAMTQ0LjIxNy4xNjEuMTg2OjQ0Mw?remarks=%E5%8A%A0%E6%8B%BF%E5%A4%A7&obfs=none&tls=1&peer=microsoft.com&xtls=2&pbk=FN3xdn38Nsw042ke-7ad3nAwpCC7QvofKznzeBhvMj4
+vless://bm9uZTozZjAyN2EwNS1lN2E2LTQyYzYtOGQ1NS1iMDA5YzczZjQ5NGNAMzcuMTQzLjEyOS4zMjo0NDM?remarks=%E8%8A%AC%E5%85%B0&obfs=none&tls=1&peer=microsoft.com&xtls=2&pbk=FN3xdn38Nsw042ke-7ad3nAwpCC7QvofKznzeBhvMj4
+vless://bm9uZTpjZTEyYjYxOS1iZjRjLTRiZDAtOTBmZi05NDJjYzlkNWE4ZDRANS4xODEuNzcuMTMyOjQ0Mw?remarks=%E5%8C%88%E7%89%99%E5%88%A9&obfs=none&tls=1&peer=microsoft.com&xtls=2&pbk=FN3xdn38Nsw042ke-7ad3nAwpCC7QvofKznzeBhvMj4
+vless://bm9uZTo1ODc1OTg1NS02NjIzLTQzYjktODNiYS0yMTJlNTAyZDYyZThAMTM5Ljg0LjEzNS4xMzA6NDQz?remarks=%E5%8D%B0%E5%BA%A6&obfs=none&tls=1&peer=microsoft.com&xtls=2&pbk=FN3xdn38Nsw042ke-7ad3nAwpCC7QvofKznzeBhvMj4
+vless://bm9uZTozMTMyMTQyZi00NmI2LTQzNzMtOTg3YS0yNTJjOWYyYmI3NzJANDUuNzYuMjE2LjY1OjQ0Mw?remarks=%E6%97%A5%E6%9C%AC&obfs=none&tls=1&peer=microsoft.com&xtls=2&pbk=FN3xdn38Nsw042ke-7ad3nAwpCC7QvofKznzeBhvMj4
+vless://bm9uZTo5YmI2MDQ0NS1kNDQxLTQwN2ItOGQwYi0zZTNlOWYxNTBkYTNANDUuNzYuMTgxLjIxODo0NDM?remarks=%E6%96%B0%E5%8A%A0%E5%9D%A1&obfs=none&tls=1&peer=microsoft.com&xtls=2&pbk=FN3xdn38Nsw042ke-7ad3nAwpCC7QvofKznzeBhvMj4
+vless://bm9uZToyYzk4ZTdhYi05ZjcwLTQ4NTctYjYwMC00MWQ4YmRjMjYxNDRAOTIuMzguMTQ5LjExNjo0NDM?remarks=%E7%BE%8E%E5%9B%BD-CA&obfs=none&tls=1&peer=microsoft.com&xtls=2&pbk=FN3xdn38Nsw042ke-7ad3nAwpCC7QvofKznzeBhvMj4
+vless://bm9uZTpjMGY0ZDliNi0wZDIwLTQ4YzMtOGE1NC01ZDRjYTJmYmUwMmZAOTIuMzguMTc2LjE0MTo0NDM?remarks=%E7%BE%8E%E5%9B%BD%E8%8A%9D%E5%8A%A0%E5%93%A5&obfs=none&tls=1&peer=microsoft.com&xtls=2&pbk=FN3xdn38Nsw042ke-7ad3nAwpCC7QvofKznzeBhvMj4
+vless://bm9uZTpkMGE0MmExNC0xY2VlLTRiMmUtYWY0My05ZDVjZDMyODliNGZANDUuNjUuOS4zNjo0NDM?remarks=%E7%BE%8E%E5%9B%BDLA&obfs=none&tls=1&peer=microsoft.com&xtls=2&pbk=FN3xdn38Nsw042ke-7ad3nAwpCC7QvofKznzeBhvMj4
+vless://bm9uZTo0MzM3NzM3OC00NTNkLTQ2Y2QtODJmMS02YzhlZjkyM2U3MTVAMTk1LjIzNC44Mi4xNDU6NDQz?remarks=%E7%BE%8E%E5%9B%BD%E8%BF%88%E9%98%BF%E5%AF%86&obfs=none&tls=1&peer=microsoft.com&xtls=2&pbk=FN3xdn38Nsw042ke-7ad3nAwpCC7QvofKznzeBhvMj4
+vless://bm9uZTo5NWJjNWM0OS1iMTU3LTRjMDctOGU3MC01M2FhZjkwODFmNDZANS44LjQxLjE0Njo0NDM?remarks=%E7%BE%8E%E5%9B%BD%E7%BA%BD%E7%BA%A6&obfs=none&tls=1&peer=microsoft.com&xtls=2&pbk=FN3xdn38Nsw042ke-7ad3nAwpCC7QvofKznzeBhvMj4
+vless://bm9uZToyYWQzNzYyMi1hZjQ4LTQ4YmItYjExYy1mM2FmNzEwODIyNDBANDUuMTM1LjIyOS4yMDk6NDQz?remarks=%E7%BE%8E%E5%9B%BD%E7%A6%8F%E5%B0%BC%E5%90%89%E4%BA%9A%E5%B7%9E&obfs=none&tls=1&peer=microsoft.com&xtls=2&pbk=FN3xdn38Nsw042ke-7ad3nAwpCC7QvofKznzeBhvMj4
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMzUuODUuMzMuMTc3OjQ0Mw#VIP(US,%20Boardman%203)
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMzUuMTYxLjU5LjE5NDo0NDM#VIP(US,%20Boardman%202)
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMzQuMjE5LjEzMi4yNTE6NDQz#VIP(US,%20Boardman%201)
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMzQuMjE2LjE3Mi4xODA6NDQz#VIP(US,%20Boardman)
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMTguMTgxLjE3Ni4yMjc6NDQz#VIP(JP,%20Tokyo)
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMTMuMTEyLjIzNS4xOTQ6NDQz#VIP(JP,%20Tokyo%201)
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTIuNjguNDQuNTM6NDQz#VIP(JP,%20Tokyo%202)
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTQuMTc4LjE5MS4yMzY6NDQz#VIP(JP,%20Tokyo%203)
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTIuMTk0LjIxMi4yMzU6NDQz#VIP(JP,%20Tokyo%204)
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANDMuMjA3LjIzMi4yMjg6NDQz#VIP(JP,%20Tokyo%205)
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANDMuMjAzLjEyNy4xNTI6NDQz#VIP(KR,%20Incheon)
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANDMuMjAwLjEuMTM6NDQz#VIP(KR,%20Incheon%201)
+ss://YWVzLTI1Ni1nY206YW1hem9uc2tyMDVANTIuMzYuMjMwLjQ0Ojgw#VIP(US,%20Boardman%203)-gcm
+ss://YWVzLTI1Ni1nY206YW1hem9uc2tyMDVANTIuMTMuMjkuNDM6ODA#VIP(US,%20Boardman%202)-gcm
+ss://YWVzLTI1Ni1nY206YW1hem9uc2tyMDVAMzQuMjA4LjE2NC4xMjE6ODA#VIP(US,%20Boardman%201)-gcm
+ss://YWVzLTI1Ni1nY206YW1hem9uc2tyMDVAMzQuMjEyLjgzLjEwNDo4MA#VIP(US,%20Boardman)-gcm
+ss://YWVzLTI1Ni1nY206YW1hem9uc2tyMDVAMy4xMTIuMi4yMDI6ODA#VIP(JP,%20Tokyo)-gcm
+ss://YWVzLTI1Ni1nY206YW1hem9uc2tyMDVAMy4zNi4xMTUuMTA0Ojgw#VIP(KR,%20Incheon)-gcm
+ss://YWVzLTI1Ni1nY206YW1hem9uc2tyMDVAMTMuMjMxLjExMC4yMjo4MA#VIP(JP,%20Tokyo%201)-gcm
+ss://YWVzLTI1Ni1nY206YW1hem9uc2tyMDVAMTguMTgzLjE3OC4xODQ6ODA#VIP(JP,%20Tokyo%202)-gcm
+ss://YWVzLTI1Ni1nY206YW1hem9uc2tyMDVANTcuMTgxLjMxLjEyMDo4MA#VIP(JP,%20Tokyo%203)-gcm
+ss://YWVzLTI1Ni1nY206YW1hem9uc2tyMDVANTIuMTk4Ljk3LjExNjo4MA#VIP(JP,%20Tokyo%204)-gcm
+
 trojan://ce8b8b30ebba45f2a38dd608b85e8628@findaworkathomejobonline.online:443?allowInsecure=1&peer=findaworkathomejobonline.online&plugin=obfs-local;obfs=websocket;obfs-host=findaworkathomejobonline.online;obfs-uri=/6b777a91#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF952
 trojan://4aec4e7f8cf8454ea4613659822e1a61@jobs-for-everyone-2024.com:443?peer=jobs-for-everyone-2024.com&plugin=obfs-local;obfs=websocket;obfs-host=jobs-for-everyone-2024.com;obfs-uri=/6b777a91#%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD873
 trojan://984e400bf5d541b7b0815913fe0c432a@yournextcareerstep.online:443?allowInsecure=1&peer=yournextcareerstep.online&plugin=obfs-local;obfs=websocket;obfs-host=yournextcareerstep.online;obfs-uri=/6b777a91#%F0%9F%87%A8%F0%9F%87%B3%E5%8F%B0%E6%B9%BE851
