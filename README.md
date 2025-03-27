@@ -5,6 +5,75 @@ vmess=bgroup.node1.v.nodelist-gfwairport.download:50001, method=aes-128-gcm, pas
 vmess=bgroup.node2.v.nodelist-gfwairport.download:50001, method=aes-128-gcm, password=08a08ef3-4262-47d9-bff3-4e1feaf5433f, fast-open=true, udp-relay=false, aead=true, tag=Incheon,V2 - B Group
 shadowsocks=bgroup.node5.s.nodelist-gfwairport.download:50001, method=chacha20-ietf-poly1305, password=08a08ef3-4262-47d9-bff3-4e1feaf5433f, fast-open=false, udp-relay=false, tag=California,SS - B Group
 
+trojan=game-gecko.opossum872.cfd:443,password=3672449442956713984,over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=Paris  5
+shadowsocks=3.35.174.241:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=false, tag=VIP專綫（新加坡）SG, Singapore
+shadowsocks=52.79.101.162:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=false, tag=VIP專綫（台湾）TW, Taipei
+shadowsocks=35.160.134.223:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=false, tag=VIP專綫（美国）US, Houston
+shadowsocks=13.125.186.115:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=false, tag=VIP專綫（日本）JP, Osaka
+shadowsocks=54.184.126.174:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=false, tag=VIP專綫（美国）HK, Los Angeles
+shadowsocks=35.94.110.89:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=false, tag=VIP專綫（加拿大）CA, Vancouver
+shadowsocks=43.203.240.54:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=false, tag=VIP專綫（日本）JP, Tokyo
+shadowsocks=13.114.96.104:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=false, tag=VIP專綫（日本）JP, Tokyo 2
+shadowsocks=3.112.245.114:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=false, tag=VIP專綫（香港）HK, Kowloon
+shadowsocks=13.124.62.225:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=false, tag=VIP專綫（香港）HK, New Territories
+shadowsocks=52.41.168.231:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=false, tag=VIP專綫（美国）US, Dallas 2
+shadowsocks=54.180.133.38:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=false, tag=VIP專綫（韩国）KR, Incheon
+
+trojan://43e5eeacbad3032bfe4c25a2f011b6b7@104.251.227.182:443?allowInsecure=1&peer=hezijiasuqi.com#%E5%85%B3%E6%B3%A8%E9%A2%91%E9%81%93t.me/GieGie777
+trojan://68710939836042900@elegant-sunbeam.shiner427.skin:443?mux=1#Singapore Pro 8
+trojan://68710939836042900@resolved-cougar.shiner427.skin:443?mux=1#DE-Frankfurt Pro 2
+trojan://68710939836042900@sensible-monkey.shiner427.skin:443?mux=1#IN-G-Mumbai Pro 3
+trojan://68710939836042900@darling-chigger.shiner427.skin:443?mux=1#Singapore Pro 4
+trojan://68710939836042900@resolved-amoeba.shiner427.skin:443?mux=1#FR-Paris Pro 1
+trojan://68710939836042900@hopeful-halibut.shiner427.skin:443?mux=1#DE-Frankfurt Pro 1
+trojan://68710939836042900@bold-oryx.shiner427.skin:443?mux=1#KR-Seoul Pro 5
+trojan://68710939836042900@blessed-escargot.shiner427.skin:443?mux=1#Singapore Pro 6
+trojan://68710939836042900@electric-mallard.shiner427.skin:443?mux=1#DE-G-Frankfurt Pro 7
+trojan://68710939836042900@musical-yak.shiner427.skin:443?mux=1#DE-G-Frankfurt Pro 4
+trojan://68710939836042900@ultimate-lemming.shiner427.skin:443?mux=1#Ireland Pro 2
+trojan://68710939836042900@viable-gnat.shiner427.skin:443?mux=1#Singapore Pro 2
+trojan://68710939836042900@content-airedale.shiner427.skin:443?mux=1#JP-G-Tokyo Pro 2
+trojan://68710939836042900@on-wren.shiner427.skin:443?mux=1#US-G-Manassas Pro 11
+trojan://68710939836042900@refined-serval.shiner427.skin:443?mux=1#CA-Toronto Pro 1
+trojan://68710939836042900@still-pegasus.shiner427.skin:443?mux=1#UK-G-London Pro 1
+trojan://68710939836042900@ample-warthog.shiner427.skin:443?mux=1#US-G-Manassas Pro 10
+trojan://68710939836042900@certain-gator.shiner427.skin:443?mux=1#US-G-Manassas Pro 1
+trojan://68710939836042900@wealthy-elk.shiner427.skin:443?mux=1#US-Virginia Pro 4
+trojan://68710939836042900@many-lobster.shiner427.skin:443?mux=1#NL-G-Amsterdam Pro 1
+trojan://68710939836042900@correct-lynx.shiner427.skin:443?mux=1#KR-Seoul Pro 7
+trojan://68710939836042900@dashing-dogfish.shiner427.skin:443?mux=1#FR-Paris Pro 2
+trojan://68710939836042900@robust-redfish.shiner427.skin:443?mux=1#JP-G-Tokyo Pro 3
+trojan://68710939836042900@infinite-ibex.shiner427.skin:443?mux=1#JP-G-Tokyo Pro 1
+trojan://68710939836042900@noble-minnow.shiner427.skin:443?mux=1#SE-Stockholm Pro 1
+trojan://68710939836042900@unified-lioness.shiner427.skin:443?mux=1#US-Oregon Pro 8
+trojan://68710939836042900@powerful-grackle.shiner427.skin:443?mux=1#US-Ohio Pro 9
+trojan://68710939836042900@popular-flounder.shiner427.skin:443?mux=1#Singapore Pro 11
+trojan://68710939836042900@ace-alien.shiner427.skin:443?mux=1#Singapore Pro 7
+trojan://68710939836042900@distinct-bunny.shiner427.skin:443?mux=1#Singapore Pro 9
+trojan://68710939836042900@daring-gobbler.shiner427.skin:443?mux=1#CA-Toronto Pro 3
+trojan://68710939836042900@infinite-goose.shiner427.skin:443?mux=1#KR-Seoul Pro 6
+trojan://68710939836042900@hopeful-seagull.shiner427.skin:443?mux=1#IN-G-Mumbai Pro 2
+trojan://68710939836042900@alive-egret.shiner427.skin:443?mux=1#Singapore Pro 13
+trojan://68710939836042900@cuddly-finch.shiner427.skin:443?mux=1#US-Oregon Pro 3
+trojan://68710939836042900@diverse-vulture.shiner427.skin:443?mux=1#Singapore Pro 10
+trojan://68710939836042900@eager-badger.shiner427.skin:443?mux=1#JP-G-Tokyo Pro 4
+trojan://68710939836042900@quality-kite.shiner427.skin:443?mux=1#Singapore Pro 1
+trojan://68710939836042900@organic-hippo.shiner427.skin:443?mux=1#US-Ohio Pro 1
+trojan://68710939836042900@master-monster.shiner427.skin:443?mux=1#IN-G-Mumbai Pro 1
+trojan://68710939836042900@perfect-elk.shiner427.skin:443?mux=1#Singapore Pro 12
+trojan://68710939836042900@in-moccasin.shiner427.skin:443?mux=1#DE-G-Frankfurt Pro 2
+trojan://68710939836042900@pure-pigeon.shiner427.skin:443?mux=1#Ireland Pro 1
+trojan://68710939836042900@eternal-hagfish.shiner427.skin:443?mux=1#US-G-Manassas Pro 5
+trojan://68710939836042900@allowing-owl.shiner427.skin:443?mux=1#KR-Seoul Pro 4
+trojan://68710939836042900@prepared-seasnail.shiner427.skin:443?mux=1#US-G-Manassas Pro 3
+trojan://68710939836042900@summary-sawfish.shiner427.skin:443?mux=1#DE-G-Frankfurt Pro 6
+trojan://68710939836042900@positive-gelding.shiner427.skin:443?mux=1#Singapore Pro 3
+trojan://68710939836042900@striking-monarch.shiner427.skin:443?mux=1#Ireland Pro 3
+trojan://68710939836042900@possible-tiger.shiner427.skin:443?mux=1#KR-Seoul Pro 1
+trojan://68710939836042900@driven-eel.shiner427.skin:443?mux=1#DE-G-Frankfurt Pro 5
+trojan://68710939836042900@driven-tiger.shiner427.skin:443?mux=1#UK-G-London Pro 2
+trojan://68710939836042900@settled-mite.shiner427.skin:443?mux=1#Singapore Pro 5
+
 vless://bm9uZTozYTMyMWMwYy05Mzk3LTQ5ZDctYWVjMi05YWVlNTMyZjdlYWVANS4yNTIuMjUuNzM6NDQz?remarks=%E5%BE%B7%E5%9B%BD&obfs=none&tls=1&peer=microsoft.com&xtls=2&pbk=FN3xdn38Nsw042ke-7ad3nAwpCC7QvofKznzeBhvMj4
 vless://bm9uZTpmNmEzOWFiZC02MjAzLTQ5MDAtYTY4ZC00YWU0OTcyY2VlNzJANTEuMTUuMjUwLjEwNDo0NDM?remarks=%E6%B3%95%E5%9B%BD&obfs=none&tls=1&peer=microsoft.com&xtls=2&pbk=FN3xdn38Nsw042ke-7ad3nAwpCC7QvofKznzeBhvMj4
 vless://bm9uZTo2ZmZmYjQ1MS1hNWNlLTQyMzQtOTJkZi1kYWJmM2U5Y2NkZmRAMTM5Ljk5LjE3MS4zNDo0NDM?remarks=%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A&obfs=none&tls=1&peer=microsoft.com&xtls=2&pbk=FN3xdn38Nsw042ke-7ad3nAwpCC7QvofKznzeBhvMj4
