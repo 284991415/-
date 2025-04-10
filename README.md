@@ -1,3 +1,6 @@
+vless://596d9af3-c408-42fa-b721-c9e246e0b6fa@visa.cn:80?encryption=none&security=&sni=steep-water-9d83.284991415.workers.dev&fp=randomized&type=ws&host=steep-water-9d83.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel
+vless://596d9af3-c408-42fa-b721-c9e246e0b6fa@visa.cn:80?encryption=none&security=&sni=quiet-truth-cb1d.284991415.workers.dev&fp=randomized&type=ws&host=quiet-truth-cb1d.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel
+
 vless://fff7a2bb-2f0a-4ddd-a863-21952815fc6d@www.visa.com.sg:8880?encryption=none&security=none&type=ws&host=muddy-paper-2a97.284991415.workers.dev&path=%2F%3Fed%3D2560#muddy-paper-2a97.284991415.workers.dev
 vless://aaaae584-8363-46ae-8e13-b52dbbd6f001@www.visa.com.sg:8880?encryption=none&security=none&type=ws&host=holy-disk-b7e8.284991415.workers.dev&path=%2F%3Fed%3D2560#holy-disk-b7e8.284991415.workers.dev
 
