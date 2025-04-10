@@ -1,9 +1,5 @@
-
-
-vless://bm9uZTphYWFhZTU4NC04MzYzLTQ2YWUtOGUxMy1iNTJkYmJkNmYwMDFAd3d3LnZpc2EuY29tLnNnOjg0NDM?remarks=holy-disk-b7e8.284991415.workers.dev&obfsParam=holy-disk-b7e8.284991415.workers.dev&path=/?ed=2560&obfs=websocket&tls=1&peer=holy-disk-b7e8.284991415.workers.dev
-vless://bm9uZTpmZmY3YTJiYi0yZjBhLTRkZGQtYTg2My0yMTk1MjgxNWZjNmRAd3d3LnZpc2EuY29tLnNnOjg0NDM?remarks=muddy-paper-2a97.284991415.workers.dev&obfsParam=muddy-paper-2a97.284991415.workers.dev&path=/?ed=2560&obfs=websocket&tls=1&peer=muddy-paper-2a97.284991415.workers.dev
-vless://bm9uZTphYWFhZTU4NC04MzYzLTQ2YWUtOGUxMy1iNTJkYmJkNmYwMDFAd3d3LnZpc2EuY29tLnNnOjg0NDM?remarks=holy-disk-b7e8.284991415.workers.dev&obfsParam=holy-disk-b7e8.284991415.workers.dev&path=/?ed=2560&obfs=websocket&tls=1&peer=holy-disk-b7e8.284991415.workers.dev
-vless://bm9uZTpmZmY3YTJiYi0yZjBhLTRkZGQtYTg2My0yMTk1MjgxNWZjNmRAd3d3LnZpc2EuY29tLnNnOjg0NDM?remarks=muddy-paper-2a97.284991415.workers.dev&obfsParam=muddy-paper-2a97.284991415.workers.dev&path=/?ed=2560&obfs=websocket&tls=1&peer=muddy-paper-2a97.284991415.workers.dev
+vless://fff7a2bb-2f0a-4ddd-a863-21952815fc6d@www.visa.com.sg:8880?encryption=none&security=none&type=ws&host=muddy-paper-2a97.284991415.workers.dev&path=%2F%3Fed%3D2560#muddy-paper-2a97.284991415.workers.dev
+vless://aaaae584-8363-46ae-8e13-b52dbbd6f001@www.visa.com.sg:8880?encryption=none&security=none&type=ws&host=holy-disk-b7e8.284991415.workers.dev&path=%2F%3Fed%3D2560#holy-disk-b7e8.284991415.workers.dev
 
 vmess://eyJhZGQiOiAiMTEyLjEzMi4yMTIuMTEyIiwgImFpZCI6ICI2NCIsICJob3N0IjogIiIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjUwMDAyIiwgInBzIjogIlx1NGUyZFx1NTZmZFx1NWI4OVx1NWZiZEEiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
 vmess://eyJhZGQiOiAiMTExLjIzMC4yNTIuMTQ5IiwgImFpZCI6ICI2NCIsICJob3N0IjogIiIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjUwMDAyIiwgInBzIjogIlx1NzUzNVx1NGZlMVx1NGUwMFx1NTMzYShcdTVlN2ZcdTRlMWMpIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
