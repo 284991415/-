@@ -39,6 +39,14 @@ vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@www.visa.com.sg:2052?encryption=non
 vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@www.visaeurope.at:2082?encryption=none&security=&sni=steep-water-9d83.284991415.workers.dev&fp=randomized&type=ws&host=steep-water-9d83.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel5
 vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@www.visa.com.mt:2086?encryption=none&security=&sni=steep-water-9d83.284991415.workers.dev&fp=randomized&type=ws&host=steep-water-9d83.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel6
 vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@qa.visamiddleeast.com:2095?encryption=none&security=&sni=steep-water-9d83.284991415.workers.dev&fp=randomized&type=ws&host=steep-water-9d83.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel7
+vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@visa.cn:443?encryption=none&security=&sni=steep-water-9d83.284991415.workers.dev&fp=randomized&type=ws&host=steep-water-9d83.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel8
+vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@visa.cn:8443?encryption=none&security=&sni=steep-water-9d83.284991415.workers.dev&fp=randomized&type=ws&host=steep-water-9d83.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel9
+vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@visa.cn:2096?encryption=none&security=&sni=steep-water-9d83.284991415.workers.dev&fp=randomized&type=ws&host=steep-water-9d83.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel10
+vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@visa.cn:5222?encryption=none&security=&sni=steep-water-9d83.284991415.workers.dev&fp=randomized&type=ws&host=steep-water-9d83.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel11
+vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@visa.cn:5353?encryption=none&security=&sni=steep-water-9d83.284991415.workers.dev&fp=randomized&type=ws&host=steep-water-9d83.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel12
+vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@visa.cn:2087?encryption=none&security=&sni=steep-water-9d83.284991415.workers.dev&fp=randomized&type=ws&host=steep-water-9d83.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel13
+vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@visa.cn:7443?encryption=none&security=&sni=steep-water-9d83.284991415.workers.dev&fp=randomized&type=ws&host=steep-water-9d83.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel14
+vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@visa.cn:9443?encryption=none&security=&sni=steep-water-9d83.284991415.workers.dev&fp=randomized&type=ws&host=steep-water-9d83.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel15
 
 
 vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@visa.cn:80?encryption=none&security=&sni=quiet-truth-cb1d.284991415.workers.dev&fp=randomized&type=ws&host=quiet-truth-cb1d.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel
@@ -50,7 +58,14 @@ vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@www.visa.com.sg:2052?encryption=non
 vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@www.visaeurope.at:2082?encryption=none&security=&sni=quiet-truth-cb1d.284991415.workers.dev&fp=randomized&type=ws&host=quiet-truth-cb1d.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel5
 vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@www.visa.com.mt:2086?encryption=none&security=&sni=quiet-truth-cb1d.284991415.workers.dev&fp=randomized&type=ws&host=quiet-truth-cb1d.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel6
 vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@qa.visamiddleeast.com:2095?encryption=none&security=&sni=quiet-truth-cb1d.284991415.workers.dev&fp=randomized&type=ws&host=quiet-truth-cb1d.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel7
-
+vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@visa.cn:443?encryption=none&security=&sni=quiet-truth-cb1d.284991415.workers.dev&fp=randomized&type=ws&host=quiet-truth-cb1d.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel8
+vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@visa.cn:8443?encryption=none&security=&sni=quiet-truth-cb1d.284991415.workers.dev&fp=randomized&type=ws&host=quiet-truth-cb1d.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel9
+vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@visa.cn:2096?encryption=none&security=&sni=quiet-truth-cb1d.284991415.workers.dev&fp=randomized&type=ws&host=quiet-truth-cb1d.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel10
+vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@visa.cn:5222?encryption=none&security=&sni=quiet-truth-cb1d.284991415.workers.dev&fp=randomized&type=ws&host=quiet-truth-cb1d.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel11
+vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@visa.cn:5353?encryption=none&security=&sni=quiet-truth-cb1d.284991415.workers.dev&fp=randomized&type=ws&host=quiet-truth-cb1d.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel12
+vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@visa.cn:2087?encryption=none&security=&sni=quiet-truth-cb1d.284991415.workers.dev&fp=randomized&type=ws&host=quiet-truth-cb1d.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel13
+vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@visa.cn:7443?encryption=none&security=&sni=quiet-truth-cb1d.284991415.workers.dev&fp=randomized&type=ws&host=quiet-truth-cb1d.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel14
+vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@visa.cn:9443?encryption=none&security=&sni=quiet-truth-cb1d.284991415.workers.dev&fp=randomized&type=ws&host=quiet-truth-cb1d.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel15
 
 vmess://eyJhZGQiOiAiMTEyLjEzMi4yMTIuMTEyIiwgImFpZCI6ICI2NCIsICJob3N0IjogIiIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjUwMDAyIiwgInBzIjogIlx1NGUyZFx1NTZmZFx1NWI4OVx1NWZiZEEiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
 vmess://eyJhZGQiOiAiMTExLjIzMC4yNTIuMTQ5IiwgImFpZCI6ICI2NCIsICJob3N0IjogIiIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjUwMDAyIiwgInBzIjogIlx1NzUzNVx1NGZlMVx1NGUwMFx1NTMzYShcdTVlN2ZcdTRlMWMpIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
