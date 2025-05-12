@@ -1,3 +1,28 @@
+trojan=blessed-osprey.marlin387.pics:443, password=3841194681870589952, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=Montreal Pro 4
+trojan=civil-ferret.marlin387.pics:443, password=3841194681870589952, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=Virginia Pro 22
+trojan=polished-polliwog.marlin387.pics:443, password=3841194681870589952, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=Ohio Pro 12
+trojan=infinite-goshawk.marlin387.pics:443, password=3841194681870589952, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=Singapore Pro 1
+trojan=ruling-treefrog.marlin387.pics:443, password=3841194681870589952, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=New York Pro 1
+trojan=healthy-parrot.marlin387.pics:443, password=3841194681870589952, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=Riga 2
+trojan=healthy-parrot.marlin387.pics:443, password=3841194681870589952, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=Riga Pro 2
+trojan=eternal-terrier.marlin387.pics:443, password=3841194681870589952, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=Los Angeles 3
+trojan=eternal-terrier.marlin387.pics:443, password=3841194681870589952, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=Los Angeles Pro 3
+trojan=caring-teal.marlin387.pics:443, password=3841194681870589952, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=Riyadh Pro 1
+trojan=ethical-troll.marlin387.pics:443, password=3841194681870589952, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=London 2
+trojan=ethical-troll.marlin387.pics:443, password=3841194681870589952, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=London Pro 2
+trojan=apt-dassie.marlin387.pics:443, password=3841194681870589952, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=Warsaw 6
+trojan=apt-dassie.marlin387.pics:443, password=3841194681870589952, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=Warsaw Pro 6
+trojan=many-muskrat.marlin387.pics:443, password=3841194681870589952, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=Miami 6
+trojan=many-muskrat.marlin387.pics:443, password=3841194681870589952, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=Miami Pro 6
+trojan=prepared-sloth.marlin387.pics:443, password=3841194681870589952, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=Manila Pro 1
+trojan=solid-dane.marlin387.pics:443, password=3841194681870589952, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=London 3
+trojan=solid-dane.marlin387.pics:443, password=3841194681870589952, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=London Pro 3
+trojan=worthy-cattle.marlin387.pics:443, password=3841194681870589952, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=Warsaw 5
+trojan=adjusted-chamois.marlin387.pics:443, password=3841194681870589952, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=Paris Pro 7
+trojan=equal-kite.marlin387.pics:443, password=3841194681870589952, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=London Pro 5
+trojan=elegant-sunbeam.marlin387.pics:443, password=3841194681870589952, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=Frankfurt Pro 2
+
+
 vless://596d9af3-c408-42fa-b721-c9e246e0b6fa@visa.cn:80?encryption=none&security=&sni=steep-water-9d83.284991415.workers.dev&fp=randomized&type=ws&host=steep-water-9d83.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel0
 vless://596d9af3-c408-42fa-b721-c9e246e0b6fa@visa.cn:80?encryption=none&security=&sni=quiet-truth-cb1d.284991415.workers.dev&fp=randomized&type=ws&host=quiet-truth-cb1d.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel1
 
