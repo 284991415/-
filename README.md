@@ -1,26 +1,3 @@
-trojan=blessed-osprey.marlin387.pics:443, password=3841194681870589952, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=Montreal Pro 4
-trojan=civil-ferret.marlin387.pics:443, password=3841194681870589952, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=Virginia Pro 22
-trojan=polished-polliwog.marlin387.pics:443, password=3841194681870589952, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=Ohio Pro 12
-trojan=infinite-goshawk.marlin387.pics:443, password=3841194681870589952, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=Singapore Pro 1
-trojan=ruling-treefrog.marlin387.pics:443, password=3841194681870589952, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=New York Pro 1
-trojan=healthy-parrot.marlin387.pics:443, password=3841194681870589952, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=Riga 2
-trojan=healthy-parrot.marlin387.pics:443, password=3841194681870589952, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=Riga Pro 2
-trojan=eternal-terrier.marlin387.pics:443, password=3841194681870589952, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=Los Angeles 3
-trojan=eternal-terrier.marlin387.pics:443, password=3841194681870589952, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=Los Angeles Pro 3
-trojan=caring-teal.marlin387.pics:443, password=3841194681870589952, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=Riyadh Pro 1
-trojan=ethical-troll.marlin387.pics:443, password=3841194681870589952, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=London 2
-trojan=ethical-troll.marlin387.pics:443, password=3841194681870589952, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=London Pro 2
-trojan=apt-dassie.marlin387.pics:443, password=3841194681870589952, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=Warsaw 6
-trojan=apt-dassie.marlin387.pics:443, password=3841194681870589952, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=Warsaw Pro 6
-trojan=many-muskrat.marlin387.pics:443, password=3841194681870589952, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=Miami 6
-trojan=many-muskrat.marlin387.pics:443, password=3841194681870589952, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=Miami Pro 6
-trojan=prepared-sloth.marlin387.pics:443, password=3841194681870589952, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=Manila Pro 1
-trojan=solid-dane.marlin387.pics:443, password=3841194681870589952, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=London 3
-trojan=solid-dane.marlin387.pics:443, password=3841194681870589952, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=London Pro 3
-trojan=worthy-cattle.marlin387.pics:443, password=3841194681870589952, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=Warsaw 5
-trojan=adjusted-chamois.marlin387.pics:443, password=3841194681870589952, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=Paris Pro 7
-trojan=equal-kite.marlin387.pics:443, password=3841194681870589952, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=London Pro 5
-trojan=elegant-sunbeam.marlin387.pics:443, password=3841194681870589952, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=Frankfurt Pro 2
 
 
 
@@ -135,39 +112,32 @@ vless://aaaae584-8363-46ae-8e13-b52dbbd6f001@104.17.113.105:2082?encryption=none
 
 vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@visa.cn:80?encryption=none&security=&sni=steep-water-9d83.284991415.workers.dev&fp=randomized&type=ws&host=steep-water-9d83.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel
 
-vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@www.visa.com:80?encryption=none&security=&sni=steep-water-9d83.284991415.workers.dev&fp=randomized&type=ws&host=steep-water-9d83.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel1
-vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@cis.visa.com:8080?encryption=none&security=&sni=steep-water-9d83.284991415.workers.dev&fp=randomized&type=ws&host=steep-water-9d83.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel2
-vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@africa.visa.com:8880?encryption=none&security=&sni=steep-water-9d83.284991415.workers.dev&fp=randomized&type=ws&host=steep-water-9d83.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel3
-vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@www.visa.com.sg:2052?encryption=none&security=&sni=steep-water-9d83.284991415.workers.dev&fp=randomized&type=ws&host=steep-water-9d83.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel4
-vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@www.visaeurope.at:2082?encryption=none&security=&sni=steep-water-9d83.284991415.workers.dev&fp=randomized&type=ws&host=steep-water-9d83.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel5
-vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@www.visa.com.mt:2086?encryption=none&security=&sni=steep-water-9d83.284991415.workers.dev&fp=randomized&type=ws&host=steep-water-9d83.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel6
-vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@qa.visamiddleeast.com:2095?encryption=none&security=&sni=steep-water-9d83.284991415.workers.dev&fp=randomized&type=ws&host=steep-water-9d83.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel7
-vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@visa.cn:8080?encryption=none&security=&sni=steep-water-9d83.284991415.workers.dev&fp=randomized&type=ws&host=steep-water-9d83.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel8
-vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@visa.cn:8880?encryption=none&security=&sni=steep-water-9d83.284991415.workers.dev&fp=randomized&type=ws&host=steep-water-9d83.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel9
-vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@visa.cn:2052?encryption=none&security=&sni=steep-water-9d83.284991415.workers.dev&fp=randomized&type=ws&host=steep-water-9d83.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel10
-vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@visa.cn:2082?encryption=none&security=&sni=steep-water-9d83.284991415.workers.dev&fp=randomized&type=ws&host=steep-water-9d83.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel11
-vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@visa.cn:2086?encryption=none&security=&sni=steep-water-9d83.284991415.workers.dev&fp=randomized&type=ws&host=steep-water-9d83.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel12
-vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@visa.cn:2095?encryption=none&security=&sni=steep-water-9d83.284991415.workers.dev&fp=randomized&type=ws&host=steep-water-9d83.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel13
-vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@visa.cn:443?encryption=none&security=&sni=steep-water-9d83.284991415.workers.dev&fp=randomized&type=ws&host=steep-water-9d83.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel14
-vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@visa.cn:2096?encryption=none&security=&sni=steep-water-9d83.284991415.workers.dev&fp=randomized&type=ws&host=steep-water-9d83.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel15
+vless://d5c9b08a-fa33-4aa9-a562-41d4a87040c2@127.0.0.1:1234?encryption=none&security=tls&sni=steep-water-9d83.284991415.workers.dev&fp=random&type=ws&host=steep-water-9d83.284991415.workers.dev&path=%2F%3Fed%3D2560#CFnat
+vless://d5c9b08a-fa33-4aa9-a562-41d4a87040c2@103.21.245.149:80?encryption=none&security=&type=ws&host=steep-water-9d83.284991415.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
+vless://d5c9b08a-fa33-4aa9-a562-41d4a87040c2@104.16.16.28:80?encryption=none&security=&type=ws&host=steep-water-9d83.284991415.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
+vless://d5c9b08a-fa33-4aa9-a562-41d4a87040c2@104.24.178.33:80?encryption=none&security=&type=ws&host=steep-water-9d83.284991415.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
+vless://d5c9b08a-fa33-4aa9-a562-41d4a87040c2@172.64.226.85:80?encryption=none&security=&type=ws&host=steep-water-9d83.284991415.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
+vless://d5c9b08a-fa33-4aa9-a562-41d4a87040c2@103.21.245.228:80?encryption=none&security=&type=ws&host=steep-water-9d83.284991415.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
+vless://d5c9b08a-fa33-4aa9-a562-41d4a87040c2@104.16.106.59:80?encryption=none&security=&type=ws&host=steep-water-9d83.284991415.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
+vless://d5c9b08a-fa33-4aa9-a562-41d4a87040c2@104.24.4.181:80?encryption=none&security=&type=ws&host=steep-water-9d83.284991415.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
+vless://d5c9b08a-fa33-4aa9-a562-41d4a87040c2@141.101.90.174:80?encryption=none&security=&type=ws&host=steep-water-9d83.284991415.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
+vless://d5c9b08a-fa33-4aa9-a562-41d4a87040c2@172.64.72.44:80?encryption=none&security=&type=ws&host=steep-water-9d83.284991415.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
+vless://d5c9b08a-fa33-4aa9-a562-41d4a87040c2@188.114.99.172:80?encryption=none&security=&type=ws&host=steep-water-9d83.284991415.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
+vless://d5c9b08a-fa33-4aa9-a562-41d4a87040c2@190.93.245.52:80?encryption=none&security=&type=ws&host=steep-water-9d83.284991415.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
 
 
 vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@visa.cn:80?encryption=none&security=&sni=quiet-truth-cb1d.284991415.workers.dev&fp=randomized&type=ws&host=quiet-truth-cb1d.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel
 
-vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@www.visa.com:80?encryption=none&security=&sni=quiet-truth-cb1d.284991415.workers.dev&fp=randomized&type=ws&host=quiet-truth-cb1d.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel1
-vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@cis.visa.com:8080?encryption=none&security=&sni=quiet-truth-cb1d.284991415.workers.dev&fp=randomized&type=ws&host=quiet-truth-cb1d.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel2
-vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@africa.visa.com:8880?encryption=none&security=&sni=quiet-truth-cb1d.284991415.workers.dev&fp=randomized&type=ws&host=quiet-truth-cb1d.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel3
-vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@www.visa.com.sg:2052?encryption=none&security=&sni=quiet-truth-cb1d.284991415.workers.dev&fp=randomized&type=ws&host=quiet-truth-cb1d.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel4
-vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@www.visaeurope.at:2082?encryption=none&security=&sni=quiet-truth-cb1d.284991415.workers.dev&fp=randomized&type=ws&host=quiet-truth-cb1d.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel5
-vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@www.visa.com.mt:2086?encryption=none&security=&sni=quiet-truth-cb1d.284991415.workers.dev&fp=randomized&type=ws&host=quiet-truth-cb1d.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel6
-vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@qa.visamiddleeast.com:2095?encryption=none&security=&sni=quiet-truth-cb1d.284991415.workers.dev&fp=randomized&type=ws&host=quiet-truth-cb1d.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel7
-vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@visa.cn:8080?encryption=none&security=&sni=quiet-truth-cb1d.284991415.workers.dev&fp=randomized&type=ws&host=quiet-truth-cb1d.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel8
-vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@visa.cn:8880?encryption=none&security=&sni=quiet-truth-cb1d.284991415.workers.dev&fp=randomized&type=ws&host=quiet-truth-cb1d.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel9
-vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@visa.cn:2052?encryption=none&security=&sni=quiet-truth-cb1d.284991415.workers.dev&fp=randomized&type=ws&host=quiet-truth-cb1d.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel10
-vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@visa.cn:2082?encryption=none&security=&sni=quiet-truth-cb1d.284991415.workers.dev&fp=randomized&type=ws&host=quiet-truth-cb1d.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel11
-vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@visa.cn:2086?encryption=none&security=&sni=quiet-truth-cb1d.284991415.workers.dev&fp=randomized&type=ws&host=quiet-truth-cb1d.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel12
-vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@visa.cn:2095?encryption=none&security=&sni=quiet-truth-cb1d.284991415.workers.dev&fp=randomized&type=ws&host=quiet-truth-cb1d.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel13
-vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@visa.cn:443?encryption=none&security=&sni=quiet-truth-cb1d.284991415.workers.dev&fp=randomized&type=ws&host=quiet-truth-cb1d.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel14
-vless://dcf8424e-2e25-4fb2-bdc2-176118f4518e@visa.cn:2096?encryption=none&security=&sni=quiet-truth-cb1d.284991415.workers.dev&fp=randomized&type=ws&host=quiet-truth-cb1d.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel15
-
+vless://d5c9b08a-fa33-4aa9-a562-41d4a87040c2@127.0.0.1:1234?encryption=none&security=tls&sni=quiet-truth-cb1d.284991415.workers.dev&fp=random&type=ws&host=quiet-truth-cb1d.284991415.workers.dev&path=%2F%3Fed%3D2560#CFnat
+vless://d5c9b08a-fa33-4aa9-a562-41d4a87040c2@103.21.245.241:80?encryption=none&security=&type=ws&host=quiet-truth-cb1d.284991415.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
+vless://d5c9b08a-fa33-4aa9-a562-41d4a87040c2@104.16.24.19:80?encryption=none&security=&type=ws&host=quiet-truth-cb1d.284991415.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
+vless://d5c9b08a-fa33-4aa9-a562-41d4a87040c2@104.24.176.26:80?encryption=none&security=&type=ws&host=quiet-truth-cb1d.284991415.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
+vless://d5c9b08a-fa33-4aa9-a562-41d4a87040c2@172.64.203.81:80?encryption=none&security=&type=ws&host=quiet-truth-cb1d.284991415.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
+vless://d5c9b08a-fa33-4aa9-a562-41d4a87040c2@103.21.245.33:80?encryption=none&security=&type=ws&host=quiet-truth-cb1d.284991415.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
+vless://d5c9b08a-fa33-4aa9-a562-41d4a87040c2@104.16.218.220:80?encryption=none&security=&type=ws&host=quiet-truth-cb1d.284991415.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
+vless://d5c9b08a-fa33-4aa9-a562-41d4a87040c2@104.24.29.77:80?encryption=none&security=&type=ws&host=quiet-truth-cb1d.284991415.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
+vless://d5c9b08a-fa33-4aa9-a562-41d4a87040c2@141.101.95.3:80?encryption=none&security=&type=ws&host=quiet-truth-cb1d.284991415.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
+vless://d5c9b08a-fa33-4aa9-a562-41d4a87040c2@172.64.20.175:80?encryption=none&security=&type=ws&host=quiet-truth-cb1d.284991415.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
+vless://d5c9b08a-fa33-4aa9-a562-41d4a87040c2@188.114.102.27:80?encryption=none&security=&type=ws&host=quiet-truth-cb1d.284991415.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
+vless://d5c9b08a-fa33-4aa9-a562-41d4a87040c2@190.93.243.253:80?encryption=none&security=&type=ws&host=quiet-truth-cb1d.284991415.workers.dev&path=%2F%3Fed%3D2560#CF%E9%9A%8F%E6%9C%BA%E8%8A%82%E7%82%B9
 
