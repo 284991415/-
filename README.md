@@ -1,36 +1,3 @@
-tuic://68b3ec0d-5cab-4f76-9f30-90a251ef7825:G2rjh9btHX1F@fi1.bot-hosting.net:5097?sni=example.com&alpn=h3&congestion_control=bbr&allowInsecure=1#fi1
-tuic://ea20a88d-c99a-4761-92a6-3ce64ca9326a:YbMJmDUPvTPe@fi1.bot-hosting.net:5097?sni=example.com&alpn=h3&congestion_control=bbr&allowInsecure=1#fi1 warp
-tuic://77b564eb-caa3-4e49-96ca-7b50f6459a7c:vA5AtexAW9ZX@fi3.bot-hosting.net:20448?sni=example.com&alpn=h3&congestion_control=bbr&allowInsecure=1#fi3
-tuic://ffbf4982-54f6-4738-952d-0bdf716c247f:RGCH0aW8VyGz@fi3.bot-hosting.net:20448?sni=example.com&alpn=h3&congestion_control=bbr&allowInsecure=1#fi3 warp
-tuic://20abb51c-dd55-4211-b926-ce1b3d7a3eaa:IJYZCFTZjT7l@fi5.bot-hosting.net:20800?sni=example.com&alpn=h3&congestion_control=bbr&allowInsecure=1#fi5
-tuic://95ccbe8c-ca30-4758-ae2e-317adeeb3143:fM2Ns1Hi7UiN@fi5.bot-hosting.net:20800?sni=example.com&alpn=h3&congestion_control=bbr&allowInsecure=1#fi5 warp
-tuic://7ffc8220-68ca-4e38-ab95-d7b70da11c10:whAnX6F76WRc@fi7.bot-hosting.net:20418?sni=example.com&alpn=h3&congestion_control=bbr&allowInsecure=1#fi7
-tuic://2cb28ad8-84a8-4cbf-bac7-37697b465044:m4n7prSZCUYU@fi7.bot-hosting.net:20418?sni=example.com&alpn=h3&congestion_control=bbr&allowInsecure=1#fi7 warp
-tuic://149e5f74-1a3a-4d71-97b4-6f3ca9f5d259:2TjNKGD2NX0Q@fi11.bot-hosting.net:20175?sni=example.com&alpn=h3&congestion_control=bbr&allowInsecure=1#fi11
-tuic://9eeace7c-ae06-4f21-8356-be8fe870cb5a:ydpGT0jctyk6@fi11.bot-hosting.net:20175?sni=example.com&alpn=h3&congestion_control=bbr&allowInsecure=1#fi11 warp
-tuic://15b98f96-2a3a-43a3-a4da-de643a343af1:zpup8K6H0C7b@de3.bot-hosting.net:20434?sni=example.com&alpn=h3&congestion_control=bbr&allowInsecure=1#de3
-tuic://ebfaa5f8-0eea-49dc-b9af-06d961430ad5:DabPJO1qTQg2@de3.bot-hosting.net:20434?sni=example.com&alpn=h3&congestion_control=bbr&allowInsecure=1#de3 warp
-tuic://b6a2f226-301b-41e5-ae6a-bdd3836c2020:2cu0RaUbHY9t@node.waifly.com:28132?sni=example.com&alpn=h3&congestion_control=bbr&allowInsecure=1#waifly
-tuic://45f34aec-47ba-421a-80b7-9d5b45af4579:e2Q0ONQ5YyQ8@node.waifly.com:28132?sni=example.com&alpn=h3&congestion_control=bbr&allowInsecure=1#waifly warp
-vless://7771f3c3-3652-407a-bb88-5a77ffb1662f@ip.sb:443?encryption=none&security=tls&type=ws&host=nmwebsg.ovo2024.dpdns.org&path=e4a4e36a#难民 web sg --- (350.74 KB)
-vless://e07ba81b-d69d-4f35-b48e-915eb9f7360b@ip.sb:443?encryption=none&security=tls&type=ws&host=nmwebsg.ovo2024.dpdns.org&path=e4a4e36a#难民 web sg 139.99.116.149 --- (127.12 KB)
-hysteria2://9TuW5mLw0AQR@46.202.82.68:1150?sni=example.com&obfs=salamander&obfs-password=enB1CntL2A3F&insecure=1#embotic uk delta hysteria2 bbr
-hysteria2://6iM6LXbb8k5E@46.202.82.68:1150?sni=example.com&obfs=salamander&obfs-password=enB1CntL2A3F&insecure=1#embotic uk delta hysteria2 bbr warp
-tuic://285698f1-9270-404f-8795-cd455a1a687d:9TuW5mLw0AQR@46.202.82.68:1988?sni=example.com&alpn=h3&congestion_control=bbr&allowInsecure=1#embotic uk delta tuic bbr
-tuic://57980a3d-c543-4012-be88-07d0bbcb1627:6iM6LXbb8k5E@46.202.82.68:1988?sni=example.com&alpn=h3&congestion_control=bbr&allowInsecure=1#embotic uk delta tuic bbr warp
-hysteria2://bws3GqKjh7md@69.30.219.179:1233?sni=example.com&obfs=salamander&obfs-password=nSQrj6fIq2lN&insecure=1#embotic us alpha hysteria2 bbr
-hysteria2://bdyCW5Zuv2ZR@69.30.219.179:1233?sni=example.com&obfs=salamander&obfs-password=nSQrj6fIq2lN&insecure=1#embotic us alpha hysteria2 bbr warp
-tuic://28e8faf6-d21c-410d-a0de-53490b34b895:bws3GqKjh7md@69.30.219.179:1800?sni=example.com&alpn=h3&congestion_control=bbr&allowInsecure=1#embotic us alpha tuic bbr
-tuic://baf042cc-4e75-42a7-9198-926eba450466:bdyCW5Zuv2ZR@69.30.219.179:1800?sni=example.com&alpn=h3&congestion_control=bbr&allowInsecure=1#embotic us alpha tuic bbr warp
-hysteria2://XUQnTDddSqdc@69.30.219.180:1276?sni=example.com&obfs=salamander&obfs-password=ITymHTNN2oqA&insecure=1#embotic us bravo hysteria2 bbr
-hysteria2://LYVmrPITnicF@69.30.219.180:1276?sni=example.com&obfs=salamander&obfs-password=ITymHTNN2oqA&insecure=1#embotic us bravo hysteria2 bbr warp
-tuic://3dac8c4d-756f-46f3-b6d4-cdb523f5cbba:XUQnTDddSqdc@69.30.219.180:1487?sni=example.com&alpn=h3&congestion_control=bbr&allowInsecure=1#embotic us bravo tuic bbr
-tuic://a0ef93b6-2af0-4dec-9404-f07a392b1092:LYVmrPITnicF@69.30.219.180:1487?sni=example.com&alpn=h3&congestion_control=bbr&allowInsecure=1#embotic us bravo tuic bbr warp
-
-
-vless://d5c9b08a-fa33-4aa9-a562-41d4a87040c2@visa.cn:80?encryption=none&security=&sni=steep-water-9d83.284991415.workers.dev&fp=randomized&type=ws&host=steep-water-9d83.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel0
-vless://d5c9b08a-fa33-4aa9-a562-41d4a87040c2@visa.cn:80?encryption=none&security=&sni=quiet-truth-cb1d.284991415.workers.dev&fp=randomized&type=ws&host=quiet-truth-cb1d.284991415.workers.dev&path=%2F%3Fed%3D2560#edgetunnel1
-
 
 
 vless://fff7a2bb-2f0a-4ddd-a863-21952815fc6d@www.visa.com.sg:8880?encryption=none&security=none&type=ws&host=muddy-paper-2a97.284991415.workers.dev&path=%2F%3Fed%3D2560#muddy-paper-2a97.284991415.workers.dev
