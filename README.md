@@ -5,6 +5,8 @@ hysteria2://a9fb8354-4bf8-40a0-8d0f-b778fa5c15ad@nd4.hn21.xyz:20122?insecure=1#h
 vless://69aa05a6-d9d2-4ebc-bc52-5174700100fb@node24.lunes.host:3457?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=U0OuRcZcGnGOgBxwlYMDf3fAwrXsYNOy6CNuSn-y9Aw&sid=2b3b0116&spx=%2F&type=tcp&headerType=none#lunes-reality
 hysteria2://ha6A9W4UPxeCzqotn9td@node24.lunes.host:3457?insecure=1#lunes-hy2
 
+hysteria2://ieshare2025@23.27.249.60:3457?sni=www.bing.com&alpn=h3#Hy2-Bing
+
 
 vless://89ab8105-709c-4824-9488-1db7c09213d0@crimson.284991415.dpdns.org:443?encryption=none&security=tls&sni=crimson.284991415.dpdns.org&fp=randomized&type=ws&host=crimson.284991415.dpdns.org&path=%252F%253Fed%253D2048#%E5%8E%9F%E7%94%9F%E5%9C%B0%E5%9D%80-443-WS-TLS
 vless://89ab8105-709c-4824-9488-1db7c09213d0@crimson.284991415.dpdns.org:80?encryption=none&security=none&type=ws&host=crimson.284991415.dpdns.org&path=%252F%253Fed%253D2048#%E5%8E%9F%E7%94%9F%E5%9C%B0%E5%9D%80-80-WS
