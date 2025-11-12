@@ -10,7 +10,7 @@ hysteria2://Z91K9XT3fH2wiiY0pAcQ@194.164.56.165:9209?insecure=1#wispbyte-hy2
 
 hysteria2://ieshare2025@194.164.56.165:9209?sni=www.bing.com&alpn=h3&insecure=1#Hy2-Bing
 
-tuic://696f6973-f089-4ff9-8b71-4435e528d6f4:32d3f03d3440dd3f783dc2fc35bd3eb8@23.27.249.60:3457?congestion_control=bbr&alpn=h3&allowInsecure=1&sni=www.bing.com&udp_relay_mode=native&disable_sni=0&reduce_rtt=1&max_udp_relay_packet_size=8192#TUIC-23.27.249.60
+tuic://8554116f-422a-4205-8a41-7ffaaa8799a0:de9ca1d4a6e284a12950f05a2bffd7a0@194.164.56.165:9209?congestion_control=bbr&alpn=h3&allowInsecure=1&sni=www.bing.com&udp_relay_mode=native&disable_sni=0&reduce_rtt=1&max_udp_relay_packet_size=8192#TUIC-194.164.56.165
 
 vless://89ab8105-709c-4824-9488-1db7c09213d0@crimson.284991415.dpdns.org:443?encryption=none&security=tls&sni=crimson.284991415.dpdns.org&fp=randomized&type=ws&host=crimson.284991415.dpdns.org&path=%252F%253Fed%253D2048#%E5%8E%9F%E7%94%9F%E5%9C%B0%E5%9D%80-443-WS-TLS
 vless://89ab8105-709c-4824-9488-1db7c09213d0@crimson.284991415.dpdns.org:80?encryption=none&security=none&type=ws&host=crimson.284991415.dpdns.org&path=%252F%253Fed%253D2048#%E5%8E%9F%E7%94%9F%E5%9C%B0%E5%9D%80-80-WS
