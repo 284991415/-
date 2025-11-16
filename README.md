@@ -10,7 +10,7 @@ hysteria2://ieshare2025@194.164.56.165:9209?sni=www.bing.com&alpn=h3&insecure=1#
 
 tuic://8554116f-422a-4205-8a41-7ffaaa8799a0:de9ca1d4a6e284a12950f05a2bffd7a0@194.164.56.165:9209?congestion_control=bbr&alpn=h3&allowInsecure=1&sni=www.bing.com&udp_relay_mode=native&disable_sni=0&reduce_rtt=1&max_udp_relay_packet_size=8192#TUIC-194.164.56.165
 
-ss://bm9uZTpiZWNiZjc4MC01NDg2LTQ3OGMtYTc2YS1kYjVkZDE3ZjY3ODg@mfa.gov.ua:443#mfa.gov.ua
+ssr://bm9uZTpiZWNiZjc4MC01NDg2LTQ3OGMtYTc2YS1kYjVkZDE3ZjY3ODg@mfa.gov.ua:443#mfa.gov.ua
 ss://bm9uZTpiZWNiZjc4MC01NDg2LTQ3OGMtYTc2YS1kYjVkZDE3ZjY3ODg@sub.danfeng.eu.org:443#sub.danfeng.eu.org
 ss://bm9uZTpiZWNiZjc4MC01NDg2LTQ3OGMtYTc2YS1kYjVkZDE3ZjY3ODg@cf.090227.xyz:443#cf.090227.xyz
 ss://bm9uZTpiZWNiZjc4MC01NDg2LTQ3OGMtYTc2YS1kYjVkZDE3ZjY3ODg@cf.008500.xyz:443#cf.008500.xyz
