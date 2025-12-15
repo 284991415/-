@@ -5,7 +5,7 @@
 vless://9d740353-24e8-402f-a148-e05612c1a7c8@194.164.56.165:9209?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=5tDR1J47Jo_D1m8ARIjNR3wFDfwpLH6uIfFCIryUC2Y&sid=93918146&spx=%2F&type=tcp&headerType=none#wispbyte-reality
 hysteria2://Z91K9XT3fH2wiiY0pAcQ@194.164.56.165:9209?insecure=1#wispbyte-hy2
 
-hysteria2://ieshare2025@194.164.56.165:9209?sni=www.bing.com&alpn=h3&insecure=1#Hy2-Bing
+hysteria2://ieshare2025@23.27.249.60:3457?sni=www.bing.com&alpn=h3&insecure=1#Hy2-Bing
 
 tuic://8554116f-422a-4205-8a41-7ffaaa8799a0:de9ca1d4a6e284a12950f05a2bffd7a0@194.164.56.165:9209?congestion_control=bbr&alpn=h3&allowInsecure=1&sni=www.bing.com&udp_relay_mode=native&disable_sni=0&reduce_rtt=1&max_udp_relay_packet_size=8192#TUIC-194.164.56.165
 
