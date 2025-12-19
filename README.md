@@ -1,3 +1,4 @@
+hysteria2://ieshare2025@23.27.249.60:3457?sni=www.bing.com&alpn=h3&insecure=1#Hy2-Bing
 
 proxies:
   - {name: 1 ~ 移动TG：crow187, server: yd.hhhhh.eu.org, port: 443, type: vless, uuid: 6c4a6e05-5855-4811-9fdd-8cc3c494dbf1, tls: true, tfo: false, skip-cert-verify: false, servername: sp1.hhhhh.eu.org, network: ws, ws-opts: {path: "/?proxyip=proxyip.sg.cmliussss.net", headers: {Host: sp1.hhhhh.eu.org}}}
