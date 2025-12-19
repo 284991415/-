@@ -1,6 +1,6 @@
 hysteria2://ieshare2025@23.27.249.60:3457?sni=www.bing.com&alpn=h3&insecure=1#Hy2-Bing
 
-proxies:
+
   - {name: 1 ~ 移动TG：crow187, server: yd.hhhhh.eu.org, port: 443, type: vless, uuid: 6c4a6e05-5855-4811-9fdd-8cc3c494dbf1, tls: true, tfo: false, skip-cert-verify: false, servername: sp1.hhhhh.eu.org, network: ws, ws-opts: {path: "/?proxyip=proxyip.sg.cmliussss.net", headers: {Host: sp1.hhhhh.eu.org}}}
   - {name: "2 ~ 移动 #1TG：crow187", server: yd.1.hhhhh.eu.org, port: 443, type: vless, uuid: c3569d56-4bed-4ad3-9e0e-dc08378e4778, tls: true, tfo: false, skip-cert-verify: false, servername: sp1.hhhhh.eu.org, network: ws, ws-opts: {path: "/?proxyip=proxyip.sg.cmliussss.net", headers: {Host: sp1.hhhhh.eu.org}}}
   - {name: "3 ~ 移动 #2TG：crow187", server: yd.2.hhhhh.eu.org, port: 443, type: vless, uuid: 9525d535-1ab9-4e3f-baaf-dfead26e0eb1, tls: true, tfo: false, skip-cert-verify: false, servername: sp1.hhhhh.eu.org, network: ws, ws-opts: {path: "/?proxyip=proxyip.sg.cmliussss.net", headers: {Host: sp1.hhhhh.eu.org}}}
