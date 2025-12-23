@@ -22,5 +22,5 @@ hysteria2://6f05c238-122f-42ba-8de9-8285236287f8@159.54.165.141:8882?insecure=1&
 hysteria2://6f05c238-122f-42ba-8de9-8285236287f8@159.54.165.141:8882?insecure=1&sni=159.54.165.141#%F0%9F%87%BA%F0%9F%87%B8%E9%BE%9F%E5%A3%B3-%E7%BE%8E%E5%9B%BD-159.54.165.141%20hysteria2-原
 
 
-hysteria2://$uuid@$sb_hy2_ip:$hy2_port?&alpn=h3&insecure=$ins_hy2&mport=$hyps&sni=$hy2_name#hy2-$hostname
+
 
