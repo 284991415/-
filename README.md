@@ -28,5 +28,5 @@ hysteria2://MLcrUt8c4dPddBeG2KUvZa8@54.65.141.24:14946?sni=bing.com&insecure=1#J
 hysteria2://WefiJuuMalWeECB5Ve1Z5Ud9FIA@18.177.123.205:35441?sni=bing.com&insecure=1#JP-KDDI-2
 hysteria2://5SOWzgSFHfQxIGG8Qjf73Eeb7ZE@18.236.242.126:13936?sni=bing.com&insecure=1#US-AWS-1
 hysteria2://4lfza9FcNUR4zI2B6r1KfgBfCo@100.20.54.3:7246?sni=bing.com&insecure=1#US-AWS-2
-
+hysteria2://efbf4181-f263-4f0b-932d-38c49cdac1d7@179.61.138.227:61344?sni=www.bing.com&alpn=h3&insecure=1#DE-Unesty_Company
 
