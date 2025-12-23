@@ -22,11 +22,5 @@ hysteria2://6f05c238-122f-42ba-8de9-8285236287f8@159.54.165.141:8882?insecure=1&
 hysteria2://6f05c238-122f-42ba-8de9-8285236287f8@159.54.165.141:8882?insecure=1&sni=159.54.165.141#%F0%9F%87%BA%F0%9F%87%B8%E9%BE%9F%E5%A3%B3-%E7%BE%8E%E5%9B%BD-159.54.165.141%20hysteria2-原
 
 
-hysteria2://ZVYIxzsFKlsozPjIEo3HaIS0CQI@43.203.128.169:14852?sni=bing.com&insecure=1#KR-SK-1
-hysteria2://MxiGoEDnLJELZicwCXwsADPdF4@43.201.45.216:29609?sni=bing.com&insecure=1#KR-SK-2
-hysteria2://MLcrUt8c4dPddBeG2KUvZa8@54.65.141.24:14946?sni=bing.com&insecure=1#JP-KDDI-1
-hysteria2://WefiJuuMalWeECB5Ve1Z5Ud9FIA@18.177.123.205:35441?sni=bing.com&insecure=1#JP-KDDI-2
-hysteria2://5SOWzgSFHfQxIGG8Qjf73Eeb7ZE@18.236.242.126:13936?sni=bing.com&insecure=1#US-AWS-1
-hysteria2://4lfza9FcNUR4zI2B6r1KfgBfCo@100.20.54.3:7246?sni=bing.com&insecure=1#US-AWS-2
-hysteria2://efbf4181-f263-4f0b-932d-38c49cdac1d7@179.61.138.227:61344?sni=www.bing.com&alpn=h3&insecure=1#DE-Unesty_Company
+hysteria2://$uuid@$sb_hy2_ip:$hy2_port?&alpn=h3&insecure=$ins_hy2&mport=$hyps&sni=$hy2_name#hy2-$hostname
 
