@@ -40,7 +40,7 @@ hysteria2://ae2fbed9-592a-43c6-9a2e-29be6a514880@[2a01:4f9:6b:47e9::19:52]:63139
 
 hysteria2://ae2fbed9-592a-43c6-9a2e-29be6a514880@[2a01:4f9:6b:47e9::19:52]:63139?insecure=1&sni=www.bing.com&alpn=h3#%F0%9F%87%AB%F0%9F%87%AE%E8%9B%99%E9%B8%A1%20%E8%8A%AC%E5%85%B0-匿h3-bing
 
-hysteria2://ae2fbed9-592a-43c6-9a2e-29be6a514880@[2a01:4f9:6b:47e9::19:52]:63139?insecure=1&sni=[2a01:4f9:6b:47e9::19:52]&alpn=h3#%F0%9F%87%AB%F0%9F%87%AE%E8%9B%99%E9%B8%A1%20%E8%8A%AC%E5%85%B-原h3
+hysteria2://ae2fbed9-592a-43c6-9a2e-29be6a514880@[2a01:4f9:6b:47e9::19:52]:63139?insecure=1&sni=[2a01:4f9:6b:47e9::19:52]&alpn=h3#%F0%9F%87%AB%F0%9F%87%AE%E8%9B%99%E9%B8%A1%20%E8%8A%AC%E5%85%B0-原h3
 
 
 
