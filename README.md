@@ -90,48 +90,8 @@ trojan://6f05c238-122f-42ba-8de9-8285236287f8@159.54.165.141:8886?allowInsecure=
 tuic://6f05c238-122f-42ba-8de9-8285236287f8@159.54.165.141:8883?congestion_control=bbr&udp_relay_mode=native&alpn=h3&sni=159.54.165.141&allow_insecure=1#🇺🇸Oracle美国%20TUIC
 
 
-hysteria2://fb765045-55d6-4b12-bfe6-3639fab3412f@serv14.trevely.us.kg:59355?&sni=www.bing.com&insecure=1#FREE_Serv14
 
-hy2://bc97f674-c578-4940-9234-0a1da46041b9@31.186.87.205:16435/?insecure=1&sni=www.bing.com#Hysteria2
-
-hysteria2://b8bd42a9-551f-419d-b70d-4aefdd2cb074@208.87.242.79:443?security=tls&insecure=1&mport=20000-55000&sni=www.bing.com#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-208.87.242.79%3A443
-hysteria2://b8bd42a9-551f-419d-b70d-4aefdd2cb074@208.87.242.189:443?security=tls&insecure=1&mport=20000-55000&sni=www.bing.com#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-208.87.242.189%3A443
-hysteria2://b8bd42a9-551f-419d-b70d-4aefdd2cb074@208.87.242.215:443?security=tls&insecure=1&mport=20000-55000&sni=www.bing.com#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-208.87.242.215%3A443
-
-hysteria2://dongtaiwang.com@51.159.77.153:33390?sni=bing.com&insecure=1#France_hy2_7
-hysteria2://dongtaiwang.com@62.210.103.0:22483?sni=www.bing.com&insecure=1#France_hysteria2_0
-hysteria2://dongtaiwang.com@62.210.103.0:22483?sni=www.bing.com&insecure=1#France_hysteria2_2
-
-vless://bc97f674-c578-4940-9234-0a1da46041b9@31.186.86.47:31911?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cerebrium.ai&fp=chrome&pbk=2nN0tI4K56fAIRXHvPEO5uW69kuhVCSSlzx9aDilvyY&type=tcp&headerType=none#PL-s2-reality
-hysteria2://bc97f674-c578-4940-9234-0a1da46041b9@31.186.86.47:28511?sni=www.bing.com&alpn=h3&insecure=1#PL-s2-hy2
-tuic://bc97f674-c578-4940-9234-0a1da46041b9%3Aadmin123@31.186.86.47:63222?sni=www.bing.com&alpn=h3&congestion_control=bbr#PL-s2-tuic
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlBMLXMxMS12bWVzcyIsDQogICJhZGQiOiAiMTI4LjIwNC4yMjMuMTE4IiwNCiAgInBvcnQiOiAiMjI5MjYiLA0KICAiaWQiOiAiYmM5N2Y2NzQtYzU3OC00OTQwLTkyMzQtMGExZGE0NjA0MWIwIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJub25lIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvdm1lc3MtYXJnbz9lZD0yMDQ4IiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlBMLXMxMS12bWVzcy1hcmdvIiwNCiAgImFkZCI6ICJ3d3cudmlzYS5jb20iLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiYmM5N2Y2NzQtYzU3OC00OTQwLTkyMzQtMGExZGE0NjA0MWIwIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJub25lIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJjb2xsYWJvcmF0aXZlLXN1cHBvc2VkLWNheW1hbi1zb2NjZXIudHJ5Y2xvdWRmbGFyZS5jb20iLA0KICAicGF0aCI6ICIvdm1lc3MtYXJnbz9lZD0yMDQ4IiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImNvbGxhYm9yYXRpdmUtc3VwcG9zZWQtY2F5bWFuLXNvY2Nlci50cnljbG91ZGZsYXJlLmNvbSIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
-hysteria2://bc97f674-c578-4940-9234-0a1da46041b0@128.204.223.118:6156?sni=www.bing.com&alpn=h3&insecure=1#PL-s11-hysteria2
-tuic://bc97f674-c578-4940-9234-0a1da46041b0%3Aadmin123@128.204.223.118:63654?sni=www.bing.com&alpn=h3&congestion_control=bbr#PL-s11-tuic
-
-tuic://bc922e48-265b-4ba7-ad86-6c856b087609:bc922e48-265b-4ba7-ad86-6c856b087609@swe.nagarin.ir:53253?congestion_control=bbr&udp_relay_mode=native&alpn=h3&sni=www.bing.com&allow_insecure=1#tu3yd
-hysteria2://addcf7c9-5f00-4d99-84b3-93d80e42db61@swe.nagarin.ir:15190?insecure=1&mport=15190&sni=www.bing.com#hy3yd
-
-hysteria://[2604:6600::5cb]:15823?upmbps=100&downmbps=100&auth=dongtaiwang.com&obfsParam=&insecure=1&peer=apple.com&alpn=h3&recv_window=23068672&recv_window_conn=5767168&mport=
-hysteria://62.210.10.186:40099?upmbps=100&downmbps=100&auth=dongtaiwang.com&obfsParam=&insecure=1&peer=apple.com&alpn=h3&recv_window=276824064&recv_window_conn=69206016&mport=
-hysteria://195.154.200.40:15010?upmbps=100&downmbps=100&auth=dongtaiwang.com&obfsParam=&insecure=1&peer=apple.com&alpn=h3&recv_window=276824064&recv_window_conn=69206016&mport=
-hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?insecure=1&sni=apple.com&mport=
-hysteria://51.159.226.1:14241?upmbps=100&downmbps=100&auth=dongtaiwang.com&obfsParam=&insecure=1&peer=apple.com&alpn=h3&recv_window=230686720&recv_window_conn=57671680&mport=
-hysteria2://dongtaiwang.com@[2604:6600::5cb]:22222?insecure=1&sni=www.bing.com&mport=
-hysteria2://dongtaiwang.com@163.172.21.105:5355?insecure=1&sni=www.bing.com&mport=
-hysteria2://dongtaiwang.com@51.158.218.2:50066?insecure=1&sni=www.bing.com&mport=
-
-hysteria://208.87.243.151:17549/?protocol=udp&insecure=1&peer=www.bing.com&auth=dongtaiwang.com&upmbps=11 Mbps&downmbps=55 Mbps&alpn=h3&obfs=#🇺🇸 US-hysteria | 6-1
-hysteria://108.181.24.77:11512/?protocol=udp&insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=11 Mbps&downmbps=55 Mbps&alpn=h3&obfs=#🇺🇸 US-hysteria | 7-1
-hysteria://185.22.155.71:10803/?protocol=udp&insecure=1&peer=www.bing.com&auth=dongtaiwang.com&upmbps=11 Mbps&downmbps=55 Mbps&alpn=h3&obfs=#🇷🇺 RU-hysteria | 8-1
-
-
-
-vless://26c462ba-a90c-4814-9d7c-a629bc0bdb5c@2001:bc8:32d7:302::13:34324?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dash.cloudflare.com&fp=chrome&pbk=pHn5CHa2P6-lNBIkTOI3zJQN19jfNFkXxGFuyefpP0M&sid=&type=tcp&headerType=none&alpn=h3
-hysteria2://dongtaiwang.com@[2001:bc8:32d7:158::9]:33356?insecure=1&sni=apple.com&mport=
-hysteria://62.210.10.186:35511?upmbps=100&downmbps=100&auth=dongtaiwang.com&insecure=1&peer=apple.com&alpn=h3&obfsParam=undefined
-hysteria://195.154.200.178:46938?upmbps=100&downmbps=100&auth=dongtaiwang.com&insecure=1&peer=apple.com&alpn=h3&obfsParam=undefined
+hysteria2://62.210.10.186:40099?upmbps=100&downmbps=100&auth=dongtaiwang.com&obfsParam=&insecure=1&peer=apple.com&alpn=h3&recv_window=276824064&recv_window_conn=69206016&mport=
 
 
 
