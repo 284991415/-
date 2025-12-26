@@ -91,7 +91,7 @@ tuic://6f05c238-122f-42ba-8de9-8285236287f8@159.54.165.141:8883?congestion_contr
 
 
 
-hysteria2://62.210.10.186:40099?upmbps=100&downmbps=100&auth=dongtaiwang.com&obfsParam=&insecure=1&peer=apple.com&alpn=h3&recv_window=276824064&recv_window_conn=69206016&mport=
+hysteria://62.210.10.186:40099?upmbps=100&downmbps=100&auth=dongtaiwang.com&obfsParam=&insecure=1&peer=apple.com&alpn=h3&recv_window=276824064&recv_window_conn=69206016&mport=
 
 
 
