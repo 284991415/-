@@ -35,9 +35,9 @@ trojan://9afd1229-b893-40c1-84dd-51e7ce204913@cdns.doon.eu.org:443?security=tls&
 trojan://9afd1229-b893-40c1-84dd-51e7ce204913@cdns.doon.eu.org:443?security=tls&sni=big-optics-lately-conference.trycloudflare.com&fp=firefox&type=ws&host=big-optics-lately-conference.trycloudflare.com&path=%2Ftrojan-argo&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%ACNorthflank-SG-Google_LLC-1
 vless://9afd1229-b893-40c1-84dd-51e7ce204913@cf.877774.xyz:443?encryption=none&security=tls&sni=big-optics-lately-conference.trycloudflare.com&fp=firefox&type=ws&host=big-optics-lately-conference.trycloudflare.com&path=%2Fvless-argo&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%ACNorthflank-SG-Google_LLC-2
 
-vless://57c4c616-dbf3-40bb-bed9-8704768b810f@170.9.63.232:3035?encryption=none&security=reality&sni=www.nazhumi.com&fp=chrome&pbk=LTZdVHljdizTplog-eBc0YxAp91ul9DWX4E_HkuNFlg&type=http&path=%2F&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%E9%BE%9F%E5%A3%B3%20%E7%BE%8E%E5%9B%BD%20US-Oracle_Corporation
+
 hysteria2://f19823db-48e6-44fc-8a6a-372ce3611763@170.9.63.232:26902?insecure=1&sni=www.bing.com&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8%E9%BE%9F%E5%A3%B3%20%E7%BE%8E%E5%9B%BD%20US-Oracle_Corporation-1
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCflLrwn5S6XHU5OTg5XHU2NTg3XHU1MTRkIFVTLU9yYWNsZV9Db3Jwb3JhdGlvbi0yIiwNCiAgImFkZCI6ICJjZi44Nzc3NzQueHl6IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogImYxOTgyM2RiLTQ4ZTYtNDRmYy04YTZhLTM3MmNlMzYxMTc2MyIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAieW9yay1oZWFkZWQtcHJvZHVjZXItc3RhZGl1bS50cnljbG91ZGZsYXJlLmNvbSIsDQogICJwYXRoIjogIi92bWVzcy1hcmdvIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogInlvcmstaGVhZGVkLXByb2R1Y2VyLXN0YWRpdW0udHJ5Y2xvdWRmbGFyZS5jb20iLA0KICAiYWxwbiI6ICJoMixoMyIsDQogICJmcCI6ICJjaHJvbWUiDQp9
+
 tuic://f19823db-48e6-44fc-8a6a-372ce3611763:A0O9ZwZNvjcSdaWXB7kh4GI0@170.9.63.232:26901?congestion_control=bbr&alpn=h3&sni=www.bing.com&udp_relay_mode=native&allow_insecure=1#%F0%9F%87%BA%F0%9F%87%B8%E9%BE%9F%E5%A3%B3%20%E7%BE%8E%E5%9B%BD%20US-Oracle_Corporation-3
 vless://57c4c616-dbf3-40bb-bed9-8704768b810f@170.9.63.232:3034?encryption=none&flow=&type=grpc&serviceName=grpc&sni=www.iij.ad.jp&fp=chrome&pbk=LTZdVHljdizTplog-eBc0YxAp91ul9DWX4E_HkuNFlg&sid=&spx=%2F&security=reality#%F0%9F%87%BA%F0%9F%87%B8%E9%BE%9F%E5%A3%B3%20%E7%BE%8E%E5%9B%BD%20US-Oracle_Corporation-4
 
