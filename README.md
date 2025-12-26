@@ -23,32 +23,36 @@ hysteria2://6f05c238-122f-42ba-8de9-8285236287f8@159.54.165.141:8882?insecure=1&
 
 
 
-hysteria2://zhangyang@130.61.50.75:6443?sni=www.bing.com&insecure=1#AMD-HY2
-hysteria2://zhangyang@130.61.50.75:6443?sni=www.bing.com&insecure=1#AMD-HY2
-hysteria2://zhangyang@130.61.50.75:6443?sni=www.bing.com&insecure=1#AMD-HY2
-hysteria2://zhangyang@130.61.50.75:6443?sni=www.bing.com&insecure=1#AMD-HY2
+hysteria2://zhangyang@130.61.50.75:6443?sni=dash.cloudflare.com&alpn=h3&insecure=1#AMD-HY2-匿h3-cloudflare
+hysteria2://zhangyang@130.61.50.75:6443?sni=www.microsoft.com&alpn=h3&insecure=1#AMD-HY2-匿h3-microsoft
+hysteria2://zhangyang@130.61.50.75:6443?sni=www.apple.com&alpn=h3&insecure=1#AMD-HY2-匿h3-apple
+hysteria2://zhangyang@130.61.50.75:6443?sni=www.bing.com&alpn=h3&insecure=1#AMD-HY2-匿h3-bing
+hysteria2://zhangyang@130.61.50.75:6443?sni=130.61.50.75&alpn=h3&insecure=1#AMD-HY2-原h3
 
-hysteria2://sysadmin.sysadmin@142.171.46.180:57450?insecure=1
-hysteria2://sysadmin.sysadmin@142.171.46.180:57450?insecure=1
-hysteria2://sysadmin.sysadmin@142.171.46.180:57450?insecure=1
-hysteria2://sysadmin.sysadmin@142.171.46.180:57450?insecure=1
+hysteria2://sysadmin.sysadmin@142.171.46.180:57450?sni=dash.cloudflare.com&alpn=h3&insecure=1#Hy2-匿h3-cloudflare
+hysteria2://sysadmin.sysadmin@142.171.46.180:57450?sni=www.microsoft.com&alpn=h3&insecure=1#Hy2-匿h3-microsoft
+hysteria2://sysadmin.sysadmin@142.171.46.180:57450?sni=www.apple.com&alpn=h3&insecure=1#Hy2-匿h3-apple
+hysteria2://sysadmin.sysadmin@142.171.46.180:57450?sni=www.bing.com&alpn=h3&insecure=1#Hy2-匿h3-bing
+hysteria2://sysadmin.sysadmin@142.171.46.180:57450?sni=142.171.46.180&alpn=h3&insecure=1#Hy2-原h3
 
-hysteria2://ieshare2025@66.181.36.242:27063?sni=www.bing.com&alpn=h3&insecure=1#Hy2-Bing
-hysteria2://ieshare2025@66.181.36.242:27063?sni=www.bing.com&alpn=h3&insecure=1#Hy2-Bing
-hysteria2://ieshare2025@66.181.36.242:27063?sni=www.bing.com&alpn=h3&insecure=1#Hy2-Bing
-hysteria2://ieshare2025@66.181.36.242:27063?sni=www.bing.com&alpn=h3&insecure=1#Hy2-Bing
+hysteria2://ieshare2025@66.181.36.242:27063?sni=dash.cloudflare.com&alpn=h3&insecure=1#Hy2-Bing-匿h3-cloudflare
+hysteria2://ieshare2025@66.181.36.242:27063?sni=www.microsoft.com&alpn=h3&insecure=1#Hy2-Bing-匿h3-microsoft
+hysteria2://ieshare2025@66.181.36.242:27063?sni=www.apple.com&alpn=h3&insecure=1#Hy2-Bing-匿h3-apple
+hysteria2://ieshare2025@66.181.36.242:27063?sni=www.bing.com&alpn=h3&insecure=1#Hy2-Bing-匿h3-bing
+hysteria2://ieshare2025@66.181.36.242:27063?sni=66.181.36.242&alpn=h3&insecure=1#Hy2-Bing-原h3
 
+hysteria2://a516b408-e06d-4278-9e6d-5271571ecab5@51.75.118.149:20248?sni=dash.cloudflare.com&alpn=h3&insecure=1#Hysteria2-FR-OVH%20SAS-匿h3-cloudflare
+hysteria2://a516b408-e06d-4278-9e6d-5271571ecab5@51.75.118.149:20248?sni=www.microsoft.com&alpn=h3&insecure=1#Hysteria2-FR-OVH%20SAS-匿h3-microsoft
+hysteria2://a516b408-e06d-4278-9e6d-5271571ecab5@51.75.118.149:20248?sni=www.apple.com&alpn=h3&insecure=1#Hysteria2-FR-OVH%20SAS-匿h3-apple
+hysteria2://a516b408-e06d-4278-9e6d-5271571ecab5@51.75.118.149:20248?sni=www.bing.com&alpn=h3&insecure=1#Hysteria2-FR-OVH%20SAS-匿h3-bing
+hysteria2://a516b408-e06d-4278-9e6d-5271571ecab5@51.75.118.149:20248?sni=51.75.118.149&alpn=h3&insecure=1#Hysteria2-FR-OVH%20SAS-原h3
 
+hysteria2://DAGNGTAN@udp.us-west-1.clawcloudrun.com:43325?sni=dash.cloudflare.com&alpn=h3&insecure=1#jackrun_hy2-匿h3-cloudflare
+hysteria2://DAGNGTAN@udp.us-west-1.clawcloudrun.com:43325?sni=www.microsoft.com&alpn=h3&insecure=1#jackrun_hy2-匿h3-microsoft
+hysteria2://DAGNGTAN@udp.us-west-1.clawcloudrun.com:43325?sni=www.apple.com&alpn=h3&insecure=1#jackrun_hy2-匿h3-apple
+hysteria2://DAGNGTAN@udp.us-west-1.clawcloudrun.com:43325?sni=www.bing.com&alpn=h3&insecure=1#jackrun_hy2-匿h3-bing
+hysteria2://DAGNGTAN@udp.us-west-1.clawcloudrun.com:43325?sni=udp.us-west-1.clawcloudrun.com&alpn=h3&insecure=1#jackrun_hy2-原h3
 
-hysteria2://a516b408-e06d-4278-9e6d-5271571ecab5@51.75.118.149:20248?sni=www.bing.com&insecure=1#Hysteria2-FR-OVH%20SAS
-hysteria2://a516b408-e06d-4278-9e6d-5271571ecab5@51.75.118.149:20248?sni=www.bing.com&insecure=1#Hysteria2-FR-OVH%20SAS
-hysteria2://a516b408-e06d-4278-9e6d-5271571ecab5@51.75.118.149:20248?sni=www.bing.com&insecure=1#Hysteria2-FR-OVH%20SAS
-hysteria2://a516b408-e06d-4278-9e6d-5271571ecab5@51.75.118.149:20248?sni=www.bing.com&insecure=1#Hysteria2-FR-OVH%20SAS
-
-hysteria2://DAGNGTAN@udp.us-west-1.clawcloudrun.com:43325?sni=www.bing.com&alpn=h3&insecure=1#jackrun_hy2
-hysteria2://DAGNGTAN@udp.us-west-1.clawcloudrun.com:43325?sni=www.bing.com&alpn=h3&insecure=1#jackrun_hy2
-hysteria2://DAGNGTAN@udp.us-west-1.clawcloudrun.com:43325?sni=www.bing.com&alpn=h3&insecure=1#jackrun_hy2
-hysteria2://DAGNGTAN@udp.us-west-1.clawcloudrun.com:43325?sni=www.bing.com&alpn=h3&insecure=1#jackrun_hy2
 
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzRFx1REQxMiBXU1Mt6ZqQ6JS9IiwNCiAgImFkZCI6ICIxMDMuMTQzLjIzOC4xOTYiLA0KICAicG9ydCI6ICIyMTg3OSIsDQogICJpZCI6ICIxZTFhNmIzYi0xNGIyLTRhZTQtOWFhOS04ODBiYTVkZmY2ZmEiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInd3dy5jbG91ZGZsYXJlLmNvbSIsDQogICJwYXRoIjogIi92bWVzc3dzcyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJ3d3cuY2xvdWRmbGFyZS5jb20iLA0KICAiYWxwbiI6ICIiDQp9
