@@ -25,13 +25,13 @@ hysteria2://6f05c238-122f-42ba-8de9-8285236287f8@159.54.165.141:8882?insecure=1&
 
 
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfjIvigIzigIzigIxaZWFidXItVmxzLUlELUJZVEVQTFVTLTEiLA0KICAiYWRkIjogImNkbnMuZG9vbi5ldS5vcmciLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiOWFmZDEyMjktYjg5My00MGMxLTg0ZGQtNTFlN2NlMjA0OTEzIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJhcHAtY3JlYXRpdmUtdHJpYnVuZS1wZXJtaXR0ZWQudHJ5Y2xvdWRmbGFyZS5jb20iLA0KICAicGF0aCI6ICIvdm1lc3MtYXJnbyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJhcHAtY3JlYXRpdmUtdHJpYnVuZS1wZXJtaXR0ZWQudHJ5Y2xvdWRmbGFyZS5jb20iLA0KICAiZnAiOiAiZmlyZWZveCIsDQogICJhbHBuIjogImgyLGh0dHAvMS4xIg0KfQ==
+
 vless://9e76cfb8-b7a6-40f6-c2aa-9905aa19f31b@47.83.153.19:59750?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=chrome&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%F0%9F%87%AD%F0%9F%87%B0%E9%98%BF%E9%87%8C%E2%98%81%EF%B8%8F
 vless://ea7d3292-7322-4f8f-9248-5528d9e40486@cf.877774.xyz:443?encryption=none&security=tls&sni=filled-glossary-stickers-intro.trycloudflare.com&fp=chrome&type=ws&host=filled-glossary-stickers-intro.trycloudflare.com&path=%2Fvless-argo&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFoks%20Cloud%20HK-LANDUPS_LIMITED-1
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfjIvigIxaZWFidXItVmxzLUlELUJZVEVQTFVTLTEiLA0KICAiYWRkIjogImNkbnMuZG9vbi5ldS5vcmciLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiOWFmZDEyMjktYjg5My00MGMxLTg0ZGQtNTFlN2NlMjA0OTEzIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJhcHAtY3JlYXRpdmUtdHJpYnVuZS1wZXJtaXR0ZWQudHJ5Y2xvdWRmbGFyZS5jb20iLA0KICAicGF0aCI6ICIvdm1lc3MtYXJnbyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJhcHAtY3JlYXRpdmUtdHJpYnVuZS1wZXJtaXR0ZWQudHJ5Y2xvdWRmbGFyZS5jb20iLA0KICAiZnAiOiAiZmlyZWZveCINCiAgImFscG4iOiAiaDIsaHR0cC8xLjEiDQp9
+
 trojan://9afd1229-b893-40c1-84dd-51e7ce204913@cdns.doon.eu.org:443?security=tls&sni=app-creative-tribune-permitted.trycloudflare.com&fp=firefox&type=ws&host=app-creative-tribune-permitted.trycloudflare.com&path=%2Ftrojan-argo&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%A9Zeabur-Vls-ID-BYTEPLUS-2
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfjJPwn5CjTm9ydGhmbGFuay1TRy1Hb29nbGVfTExDIiwNCiAgImFkZCI6ICJjZG5zLmRvb24uZXUub3JnIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjlhZmQxMjI5LWI4OTMtNDBjMS04NGRkLTUxZTdjZTIwNDkxMyIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiYmlnLW9wdGljcy1sYXRlbHktY29uZmVyZW5jZS50cnljbG91ZGZsYXJlLmNvbSIsDQogICJwYXRoIjogIi92bWVzcy1hcmdvIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImJpZy1vcHRpY3MtbGF0ZWx5LWNvbmZlcmVuY2UudHJ5Y2xvdWRmbGFyZS5jb20iLA0KICAiZnAiOiAiZmlyZWZveCIsDQogICJhbHBuIjogImgyLGh0dHAvMS4xIg0KfQ==
+
 trojan://9afd1229-b893-40c1-84dd-51e7ce204913@cdns.doon.eu.org:443?security=tls&sni=big-optics-lately-conference.trycloudflare.com&fp=firefox&type=ws&host=big-optics-lately-conference.trycloudflare.com&path=%2Ftrojan-argo&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%ACNorthflank-SG-Google_LLC-1
 vless://9afd1229-b893-40c1-84dd-51e7ce204913@cf.877774.xyz:443?encryption=none&security=tls&sni=big-optics-lately-conference.trycloudflare.com&fp=firefox&type=ws&host=big-optics-lately-conference.trycloudflare.com&path=%2Fvless-argo&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%ACNorthflank-SG-Google_LLC-2
 
@@ -46,9 +46,6 @@ anytls://6f05c238-122f-42ba-8de9-8285236287f8@159.54.165.141:8891?sni=159.54.165
 trojan://6f05c238-122f-42ba-8de9-8285236287f8@159.54.165.141:8886?allowInsecure=1&sni=159.54.165.141&udp=1&tfo=1#🇺🇸美国%20Trojan
 trojan://6f05c238-122f-42ba-8de9-8285236287f8@159.54.165.141:8886?allowInsecure=1&sni=159.54.165.141&udp=1&tfo=1#🇺🇸Oracle美国%20Trojan%20
 tuic://6f05c238-122f-42ba-8de9-8285236287f8@159.54.165.141:8883?congestion_control=bbr&udp_relay_mode=native&alpn=h3&sni=159.54.165.141&allow_insecure=1#🇺🇸Oracle美国%20TUIC
-
-vless://9afd1229-b893-40c1-84dd-51e7ce204913@www.visa.com.sg:443?type=ws&security=tls&path=/vless-argo&host=count-roads-industries-christopher.trycloudflare.com&sni=count-roads-industries-christopher.trycloudflare.com&fp=chrome&flow=xtls-rprx-vision&alpn=h2,http/1.1#🇺🇸美国 VLESS+WS+XTLS
-trojan://9afd1229-b893-40c1-84dd-51e7ce204913@www.visa.com.sg:443?type=ws&security=tls&path=%2Ftrojan-argo&host=count-roads-industries-christopher.trycloudflare.com&sni=count-roads-industries-christopher.trycloudflare.com&fp=chrome&alpn=h2%2Chttp%2F1.1#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20Trojan%2BWS%20%E2%9A%A1243ms
 
 
 
