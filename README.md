@@ -72,11 +72,6 @@ hysteria2://Zo8meaVfKu@vps-usa.maze-maker.com:443/?insecure=1&obfs=salamander&ob
 hysteria2://Zo8meaVfKu@vps-usa.maze-maker.com:443/?insecure=1&obfs=salamander&obfs-password=Zo8meaVfKu&sni=go.microsoft.com&alpn=h3%2Ch2%2Chttp%2F1.1#bwg-usa-hysteria2
 
 
-hysteria2://GI37BZpQ8R@5.78.107.50:13819?allowInsecure=1&fastopen=0&obfs=salamander&obfs-password=mMoHHHAM%40%40%40Poorjam%40#HY2
-hysteria2://GI37BZpQ8R@5.78.107.50:22800?allowInsecure=1&fastopen=0&obfs=salamander&obfs-password=MMMoHHHAmDDPOORJAM#HY2+ECH
-hysteria2://GI37BZpQ8R@5.78.107.50:11776?allowInsecure=1&fastopen=0&obfs=salamander&obfs-password=POOORjjamamohhhhandddsss#HY2+ECH+PSQ
-hysteria2://GI37BZpQ8R@5.78.107.50:443?allowInsecure=1&fastopen=0&obfs=salamander&obfs-password=porrrjammooooJJJAm&sni=www.google.com#HY2+SNI
-hysteria2://GI37BZpQ8R@5.78.107.50:3030?allowInsecure=1&fastopen=0&obfs=salamander&obfs-password=%40%40%40poRRRRjammOOOJAHm#HY2@@
 
 
 
