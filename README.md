@@ -60,12 +60,16 @@ hysteria2://xtGIM7iEx9@91.107.190.166:8443/?insecure=1&obfs=salamander&obfs-pass
 hysteria2://xtGIM7iEx9@91.107.190.166:8443/?insecure=1&obfs=salamander&obfs-password=KLSADFIU43%23%24&sni=www.apple.com&alpn=h3#德国 萨克森州 法尔肯施泰因 — Hetzner-匿h3-apple
 hysteria2://xtGIM7iEx9@91.107.190.166:8443/?insecure=1&obfs=salamander&obfs-password=KLSADFIU43%23%24&sni=www.bing.com&alpn=h3#德国 萨克森州 法尔肯施泰因 — Hetzner-匿h3-bing
 hysteria2://xtGIM7iEx9@91.107.190.166:8443/?insecure=1&obfs=salamander&obfs-password=KLSADFIU43%23%24&sni=91.107.190.166&alpn=h3#德国 萨克森州 法尔肯施泰因 — Hetzner-原h3
-
 hysteria2://xtGIM7iEx9@91.107.190.166:8443/?insecure=1&sni=91.107.190.166&alpn=h3&obfs=salamander&obfs-password=KLSADFIU43%23%24#%D9%87%DB%8C%D8%B3%D8%AA%D8%B1%DB%8C%D8%A7.2
-
 hysteria2://xtGIM7iEx9@91.107.190.166:8443/?insecure=1&obfs=salamander&obfs-password=KLSADFIU43%23%24&sni=91.107.190.166#%D9%87%DB%8C%D8%B3%D8%AA%D8%B1%DB%8C%D8%A7.2
 
 
+hysteria2://Zo8meaVfKu@vps-usa.maze-maker.com:443/?insecure=1&obfs=salamander&obfs-password=Zo8meaVfKu&sni=dash.cloudflare.com&alpn=h3%2Ch2%2Chttp%2F1.1#美国 加州 洛杉矶 - IT7 Networks-匿h3-cloudflare
+hysteria2://Zo8meaVfKu@vps-usa.maze-maker.com:443/?insecure=1&obfs=salamander&obfs-password=Zo8meaVfKu&sni=www.microsoft.com&alpn=h3%2Ch2%2Chttp%2F1.1#美国 加州 洛杉矶 - IT7 Networks-匿h3-microsoft
+hysteria2://Zo8meaVfKu@vps-usa.maze-maker.com:443/?insecure=1&obfs=salamander&obfs-password=Zo8meaVfKu&sni=www.apple.com&alpn=h3%2Ch2%2Chttp%2F1.1#美国 加州 洛杉矶 - IT7 Networks-匿h3-apple
+hysteria2://Zo8meaVfKu@vps-usa.maze-maker.com:443/?insecure=1&obfs=salamander&obfs-password=Zo8meaVfKu&sni=www.bing.com&alpn=h3%2Ch2%2Chttp%2F1.1#美国 加州 洛杉矶 - IT7 Networks-匿h3-bing
+hysteria2://Zo8meaVfKu@vps-usa.maze-maker.com:443/?insecure=1&obfs=salamander&obfs-password=Zo8meaVfKu&sni=vps-usa.maze-maker.com&alpn=h3%2Ch2%2Chttp%2F1.1#美国 加州 洛杉矶 - IT7 Networks-原h3
+hysteria2://Zo8meaVfKu@vps-usa.maze-maker.com:443/?insecure=1&obfs=salamander&obfs-password=Zo8meaVfKu&sni=go.microsoft.com&alpn=h3%2Ch2%2Chttp%2F1.1#bwg-usa-hysteria2
 
 
 
