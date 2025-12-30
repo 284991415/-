@@ -64,12 +64,7 @@ hysteria2://xtGIM7iEx9@91.107.190.166:8443/?insecure=1&sni=91.107.190.166&alpn=h
 hysteria2://xtGIM7iEx9@91.107.190.166:8443/?insecure=1&obfs=salamander&obfs-password=KLSADFIU43%23%24&sni=91.107.190.166#%D9%87%DB%8C%D8%B3%D8%AA%D8%B1%DB%8C%D8%A7.2
 
 
-hysteria2://Zo8meaVfKu@vps-usa.maze-maker.com:443/?insecure=1&obfs=salamander&obfs-password=Zo8meaVfKu&sni=dash.cloudflare.com&alpn=h3%2Ch2%2Chttp%2F1.1#美国 加州 洛杉矶 - IT7 Networks-匿h3-cloudflare
-hysteria2://Zo8meaVfKu@vps-usa.maze-maker.com:443/?insecure=1&obfs=salamander&obfs-password=Zo8meaVfKu&sni=www.microsoft.com&alpn=h3%2Ch2%2Chttp%2F1.1#美国 加州 洛杉矶 - IT7 Networks-匿h3-microsoft
-hysteria2://Zo8meaVfKu@vps-usa.maze-maker.com:443/?insecure=1&obfs=salamander&obfs-password=Zo8meaVfKu&sni=www.apple.com&alpn=h3%2Ch2%2Chttp%2F1.1#美国 加州 洛杉矶 - IT7 Networks-匿h3-apple
-hysteria2://Zo8meaVfKu@vps-usa.maze-maker.com:443/?insecure=1&obfs=salamander&obfs-password=Zo8meaVfKu&sni=www.bing.com&alpn=h3%2Ch2%2Chttp%2F1.1#美国 加州 洛杉矶 - IT7 Networks-匿h3-bing
-hysteria2://Zo8meaVfKu@vps-usa.maze-maker.com:443/?insecure=1&obfs=salamander&obfs-password=Zo8meaVfKu&sni=vps-usa.maze-maker.com&alpn=h3%2Ch2%2Chttp%2F1.1#美国 加州 洛杉矶 - IT7 Networks-原h3
-hysteria2://Zo8meaVfKu@vps-usa.maze-maker.com:443/?insecure=1&obfs=salamander&obfs-password=Zo8meaVfKu&sni=go.microsoft.com&alpn=h3%2Ch2%2Chttp%2F1.1#bwg-usa-hysteria2
+
 
 
 
@@ -89,13 +84,7 @@ vless://a516b408-e06d-4278-9e6d-5271571ecab5@51.75.118.149:20248?encryption=none
 
 
 vless://9e76cfb8-b7a6-40f6-c2aa-9905aa19f31b@47.83.153.19:59750?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=chrome&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%F0%9F%87%AD%F0%9F%87%B0%E9%98%BF%E9%87%8C%E2%98%81%EF%B8%8F
-vless://ea7d3292-7322-4f8f-9248-5528d9e40486@cf.877774.xyz:443?encryption=none&security=tls&sni=filled-glossary-stickers-intro.trycloudflare.com&fp=chrome&type=ws&host=filled-glossary-stickers-intro.trycloudflare.com&path=%2Fvless-argo&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AFoks%20Cloud%20HK-LANDUPS_LIMITED-1
 
-trojan://9afd1229-b893-40c1-84dd-51e7ce204913@cdns.doon.eu.org:443?security=tls&sni=app-creative-tribune-permitted.trycloudflare.com&fp=firefox&type=ws&host=app-creative-tribune-permitted.trycloudflare.com&path=%2Ftrojan-argo&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%A9Zeabur-Vls-ID-BYTEPLUS-2
-
-
-trojan://9afd1229-b893-40c1-84dd-51e7ce204913@cdns.doon.eu.org:443?security=tls&sni=big-optics-lately-conference.trycloudflare.com&fp=firefox&type=ws&host=big-optics-lately-conference.trycloudflare.com&path=%2Ftrojan-argo&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%ACNorthflank-SG-Google_LLC-1
-vless://9afd1229-b893-40c1-84dd-51e7ce204913@cf.877774.xyz:443?encryption=none&security=tls&sni=big-optics-lately-conference.trycloudflare.com&fp=firefox&type=ws&host=big-optics-lately-conference.trycloudflare.com&path=%2Fvless-argo&allowInsecure=1#%F0%9F%87%B8%F0%9F%87%ACNorthflank-SG-Google_LLC-2
 
 
 hysteria2://f19823db-48e6-44fc-8a6a-372ce3611763@170.9.63.232:26902?insecure=1&sni=www.bing.com&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8%E9%BE%9F%E5%A3%B3%20%E7%BE%8E%E5%9B%BD%20US-Oracle_Corporation-1
