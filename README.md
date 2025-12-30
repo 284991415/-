@@ -65,8 +65,10 @@ hysteria2://xtGIM7iEx9@91.107.190.166:8443/?insecure=1&obfs=salamander&obfs-pass
 
 
 
-
-
+hysteria2://8ce6ca7f-4296-47ad-966e-54b577f28982@23.165.105.129:57249?security=tls&alpn=h3&insecure=1&sni=www.bing.com#hy2-lxd17203
+hysteria2://119bedb3-7bf7-4834-8eb0-451b0e58bc1a@85.121.51.24:28675?sni=www.bing.com&alpn=h3&insecure=1#%E7%A7%BB%E5%8A%A8%E5%BF%AB%E4%B9%90%E6%9C%BA%20%E5%BC%80%E6%9C%BA%E7%94%A8%E4%BA%86%E4%B8%80%E5%A4%A9
+hysteria2://38im1KVvlSgfd7gj@122.10.114.205:8623?peer=www.nvidia.com&insecure=1&obfs=salamander&obfs-password=cry_me_a_r1ver&fastopen=1&upmbps=50&downmbps=50&keepalive=60#Hysteria2_Nvidia_1213
+hysteria2://%40KevinZakarian@kevin.vpny.online:22002?insecure=1&allowInsecure=1&obfs=salamander&obfs-password=KevinZakarian#9%7C%E2%9A%9B%EF%B8%8F68%40oneclickvpnkeys
 
 
 
