@@ -1,10 +1,4 @@
-hysteria2://4e9ee29b39a28277@66.135.11.68:443/?sni=66.135.11.68&obfs=salamander&obfs-password=13f7ba5f&insecure=1#%E7%BE%8E%E5%9B%BD
-hysteria2://1f17cdf0578a2860@45.76.0.86:443/?sni=45.76.0.86&obfs=salamander&obfs-password=4b817757&insecure=1#%E7%BE%8E%E5%9B%BD
-hysteria2://123456@141.98.196.126:9443/?insecure=1&sni=bing.com#jphy
 
-hysteria2://123456@74.48.134.235:9443/?insecure=1&sni=bing.com#ushy
-
-hysteria2://123456@185.151.146.128:9443/?insecure=1&sni=bing.com#sg2hy
 
 
 
