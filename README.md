@@ -1,11 +1,11 @@
-hysteria2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp4.dexlos.com:7940?sni=jp4.dexlos.com&insecure=1#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%20%7C%20%20%E2%AC%87%EF%B8%8F%2012.7MB%2Fs
-hysteria2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@tw2.dexlos.com:3783?sni=tw2.dexlos.com&insecure=1#%F0%9F%87%A8%F0%9F%87%B3%20%E5%8F%B0%E6%B9%BE%20%7C%20%E2%AC%87%EF%B8%8F%2013.7MB%2Fs
-hysteria2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp4.dexlos.com:7940?sni=jp4.dexlos.com&insecure=1#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%20%7C%20%E2%AC%87%EF%B8%8F%209.7MB%2Fs
+hysteria2://4e9ee29b39a28277@66.135.11.68:443/?sni=66.135.11.68&obfs=salamander&obfs-password=13f7ba5f&insecure=1#%E7%BE%8E%E5%9B%BD
+hysteria2://1f17cdf0578a2860@45.76.0.86:443/?sni=45.76.0.86&obfs=salamander&obfs-password=4b817757&insecure=1#%E7%BE%8E%E5%9B%BD
+hysteria2://123456@141.98.196.126:9443/?insecure=1&sni=bing.com#jphy
 
-hysteria2://dongtaiwang.com@51.159.77.153:33390?sni=bing.com&insecure=1#France_hy2_7
-hysteria2://dongtaiwang.com@64.110.25.11:33337?sni=www.bing.com&insecure=1#TG%3A%40dns68%20%E8%8A%82%E7%82%B9
-hysteria2://dongtaiwang.com@62.210.103.0:22483?sni=www.bing.com&insecure=1#France_hysteria2_2
-hysteria2://dongtaiwang.com@51.159.77.198:53967?sni=www.bing.com&insecure=1#France_hysteria2_3
+hysteria2://123456@74.48.134.235:9443/?insecure=1&sni=bing.com#ushy
+
+hysteria2://123456@185.151.146.128:9443/?insecure=1&sni=bing.com#sg2hy
+
 
 
 
