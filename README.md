@@ -47,14 +47,6 @@ hysteria2://a516b408-e06d-4278-9e6d-5271571ecab5@51.75.118.149:20248?sni=www.app
 hysteria2://a516b408-e06d-4278-9e6d-5271571ecab5@51.75.118.149:20248?sni=www.bing.com&alpn=h3&insecure=1#法国 上法兰西大区 — OVH-匿h3-bing
 hysteria2://a516b408-e06d-4278-9e6d-5271571ecab5@51.75.118.149:20248?sni=51.75.118.149&alpn=h3&insecure=1#法国 上法兰西大区 — OVH-原h3
 
-hysteria2://DAGNGTAN@udp.us-west-1.clawcloudrun.com:43325?sni=dash.cloudflare.com&alpn=h3&insecure=1#美国 加州 洛杉矶 — 阿里云-匿h3-cloudflare
-hysteria2://DAGNGTAN@udp.us-west-1.clawcloudrun.com:43325?sni=www.microsoft.com&alpn=h3&insecure=1#美国 加州 洛杉矶 — 阿里云-匿h3-microsoft
-hysteria2://DAGNGTAN@udp.us-west-1.clawcloudrun.com:43325?sni=www.apple.com&alpn=h3&insecure=1#美国 加州 洛杉矶 — 阿里云-匿h3-apple
-hysteria2://DAGNGTAN@udp.us-west-1.clawcloudrun.com:43325?sni=www.bing.com&alpn=h3&insecure=1#美国 加州 洛杉矶 — 阿里云-匿h3-bing
-hysteria2://DAGNGTAN@udp.us-west-1.clawcloudrun.com:43325?sni=udp.us-west-1.clawcloudrun.com&alpn=h3&insecure=1#美国 加州 洛杉矶 — 阿里云-原h3
-hysteria2://%40KevinZakarian@194.117.224.146:22002?insecure=1&obfs=salamander&obfs-password=KevinZakarian&sni=m.vk.com#KV
-
-
 hysteria2://xtGIM7iEx9@91.107.190.166:8443/?insecure=1&obfs=salamander&obfs-password=KLSADFIU43%23%24&sni=dash.cloudflare.com&alpn=h3#德国 萨克森州 法尔肯施泰因 — Hetzner-匿h3-cloudflare
 hysteria2://xtGIM7iEx9@91.107.190.166:8443/?insecure=1&obfs=salamander&obfs-password=KLSADFIU43%23%24&sni=www.microsoft.com&alpn=h3#德国 萨克森州 法尔肯施泰因 — Hetzner-匿h3-microsoft
 hysteria2://xtGIM7iEx9@91.107.190.166:8443/?insecure=1&obfs=salamander&obfs-password=KLSADFIU43%23%24&sni=www.apple.com&alpn=h3#德国 萨克森州 法尔肯施泰因 — Hetzner-匿h3-apple
