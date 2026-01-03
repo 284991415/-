@@ -1,9 +1,4 @@
-hysteria2://sharecentrepro@103.245.237.90:4433?peer=vn.sharecentre.online&obfs=none#hy2%E6%B5%8B%E8%AF%95
-hysteria2://7af26d41-b97d-4686-83c9-c09d8a86e5a4@fenghuang1.su8.lol:8899?obfs=none&fastopen=1#%E5%87%A4%E5%87%B0%E5%9F%8E4Gbps-1
 
-hysteria2://7af26d41-b97d-4686-83c9-c09d8a86e5a4@xinjiapo1.su8.lol:8899?obfs=none&fastopen=1#%E6%96%B0%E5%8A%A0%E5%9D%A11Gbps1
-
-hysteria2://7af26d41-b97d-4686-83c9-c09d8a86e5a4@xinjiapo2.su8.lol:8899?obfs=none&fastopen=1#%E6%96%B0%E5%8A%A0%E5%9D%A11Gbps-2
 
 
 
