@@ -67,11 +67,7 @@ hysteria2://119bedb3-7bf7-4834-8eb0-451b0e58bc1a@85.121.51.24:28675?sni=www.bing
 hysteria2://119bedb3-7bf7-4834-8eb0-451b0e58bc1a@85.121.51.24:28675?sni=85.121.51.24&alpn=h3&insecure=1#日本 东京 Urban Network Solutions-原h3
 
 
-hysteria2://DAGNGTAN@udp.us-west-1.clawcloudrun.com:43325?sni=dash.cloudflare.com&alpn=h3&insecure=1#美国 加州 洛杉矶 — 阿里云-匿h3-cloudflare
-hysteria2://DAGNGTAN@udp.us-west-1.clawcloudrun.com:43325?sni=www.microsoft.com&alpn=h3&insecure=1#美国 加州 洛杉矶 — 阿里云-匿h3-microsoft
-hysteria2://DAGNGTAN@udp.us-west-1.clawcloudrun.com:43325?sni=www.apple.com&alpn=h3&insecure=1#美国 加州 洛杉矶 — 阿里云-匿h3-apple
-hysteria2://DAGNGTAN@udp.us-west-1.clawcloudrun.com:43325?sni=www.bing.com&alpn=h3&insecure=1#美国 加州 洛杉矶 — 阿里云-匿h3-bing
-hysteria2://DAGNGTAN@udp.us-west-1.clawcloudrun.com:43325?sni=udp.us-west-1.clawcloudrun.com&alpn=h3&insecure=1#美国 加州 洛杉矶 — 阿里云-原h3
+
 
 
 
